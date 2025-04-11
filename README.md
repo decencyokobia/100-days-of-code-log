@@ -62,3 +62,30 @@ My next goal is to deploy the weather app and refine it a bit before pushing it 
 # Screenshot of the weather app
 <img src='/images/Screenshot 1.png' alt='screenshot of my weather app 1'>
 <img src='/images/Screenshot 2.png' alt='screenshot of my weather app 2'>
+
+# Day 3 - April 10, 2025.
+
+Today I focused on improving the UX/UI of my weather app. I implemented local storage for better state persistence and added a toggle for switching between light and dark modes. I also moved away from a static array of weather icons and instead now fetch icons dynamically from the API — way cleaner and more efficient. 
+
+**learning point:-** 
+
+A big highlight was learning how to fetch temperature values directly in Celsius using API parameters, which saved me from doing manual math conversions. I also got deeper into error handling, learned to interpret console responses more effectively, and implemented a custom alert system.
+
+<img src='./images/darkMode.webp' alt='sreenshot of my weather app on dark mode'>
+<a href='https://decencyokobia.github.io/weather-app/' title='my weather app link for live demo'>Access my weather app here</a>
+
+**Challenges:**
+
+Today wasn’t too challenging compared to yesterday. The only hiccup was figuring out how to separate API calls from the rest of the app structure — specifically creating a custom hook for HTTP requests, error handling, and loading states. I didn’t Google anything; just tried to jog my memory and experiment through trial and error. Eventually, I nailed it: separated the API key, created a custom hook, and got it all working smoothly.
+
+**Reflection:-** 
+
+Honestly, I’m proud of how far I’ve come. I’m especially happy that everything is functional and that I was able to cleanly separate concerns in my code — HTTP requests are no longer tangled into my main app logic. That feels like a solid dev move and a step in the right direction toward writing more scalable, maintainable code.
+
+<img src='./images/lightMode.webp' alt='sreenshot of my weather app on light mode'>
+
+**Goal:-**
+
+Next up, I want to wrap up my video game fetching app as part of my course. Not gonna lie, I find following tutorials a bit boring lately, but I’m pushing through because I know it’s all part of the process. The goal is to complete it so I can finally move on to learning and building with Next.js — I’m hyped about building more robust, full-stack applications.
+
+Also, on the content front: I’ve started posting on Twitter daily, aiming for 2–3 times a week on LinkedIn, and once a week on my blog. My GitHub logs will continue daily — no excuses, even on workdays.
