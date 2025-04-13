@@ -1,7 +1,7 @@
 # 100-Days-of-Code - My Journey
 
 **Start Date:** April 09, 2025.
-**Goal:** Code for 100 days, track progress, and build real-world skills.
+**Main Goal:** Code for 100 days, track progress, and build real-world skills.
 
 # Introduction 
 
@@ -114,3 +114,60 @@ Oh, and I finally set up my Upwork account! Everything’s ready to go, but impo
 
 Top priority is to figure out how to implement that filter on the todo list and properly display a progress bar or chart on the expense tracker. I also want to finish my React course, especially the section on fetching video games, so I don’t waste more time stuck in the same spot. Keeping it moving, one day at a time.
 
+# Day 5 of 100 — April 12, 2025
+
+Five days in, and I’m genuinely enjoying the process. It hasn’t been all smooth sailing — a few bumps here and there — but I’m taking every hiccup as a chance to learn.
+
+Yesterday, I struggled to implement a filter, but today I cracked it, thanks to ChatGPT! Turns out it’s not that different from the kind of filters I’ve used in my expense tracker. I just didn’t make the connection immediately because, well… I’m still pretty new to this. 😅
+
+But with a bit of hands-on practice (and no copy-pasting — I’m trying to really learn), I managed to make it work. I want to be able to do this stuff on my own tomorrow, without looking clueless.
+
+During the workweek, I usually practice on the bus to and from work. It’s actually a great way to reinforce what I’ve learned. Hopefully, it becomes second nature soon.
+
+I also started exploring the chart.js library. I want to be able to use charts like line, bar, and pie charts for future projects — especially for something like an admin dashboard. I was able to render a component using hardcoded data, but doing it dynamically is the real goal. More practice needed!
+
+**Learning Points:**
+
+Here’s what I learned while implementing a filter:
+
+1. Store the original array in a state. For me, that was todos[].
+
+2. Create a separate state to store the filter condition. I used filter, initialized to 'all', and restricted it to <‘all’ | ‘active’ | ‘completed’>.
+
+3. Render conditionally based on the filter, like this:
+
+const displayTodos = todos.filter(todo => {
+  if (filter === 'active') return !todo.complete;
+  if (filter === 'completed') return todo.complete;
+  return true; // for 'all'
+});
+
+This displayTodos is what gets rendered in the UI. Understanding this flow has been a win for me, and I’ll keep practicing it until it clicks fully.
+
+**Challenges:**
+
+With charts, I only managed to get the basics — installed the libraries using:
+
+npm i chart.js react-chartjs-2
+
+Then imported the components I needed (e.g. Line, Bar, Pie) and registered them using:
+
+ChartJS.register(...);
+
+But if I’m being honest, I still don’t fully know what I’m doing here. 😅 It’s a work in progress. But hey — everything I know now once felt like this, so I’m hopeful.
+
+**Reflection:**
+
+I’m proud of my progress so far. My plan is to go deeper into the chart.js docs and strengthen my grasp on the filter logic. Most of all — I’m enjoying the journey.
+
+**Goals for the Coming Week:**
+
+I'm on night shifts all week, so I’m not expecting a huge amount of progress. That said, I do have a 300-word research proposal to submit on the 17th. Thankfully, I’ve already done half through group discussions, so it shouldn’t be too difficult to complete.
+
+I also need to finish some online modules before they expire. Staying ahead of deadlines is key — I’d rather not have my manager chasing me down. 😅
+
+For coding, I’ll focus on reviewing everything I’ve learned this week during my bus rides and maybe during night shifts (if my brain cooperates). My laptop is always with me — so I’ll do what I can.
+
+I’ll keep posting my logs and updates on Twitter, even if they’re small. For my blog and LinkedIn, I’ll aim to post weekly — I’d rather deliver quality over quantity. As for YouTube, I’m not quite bold enough for video yet, but… who knows what the future holds?
+
+Thanks for reading. 🙌
