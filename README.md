@@ -114,7 +114,7 @@ Oh, and I finally set up my Upwork account! Everything’s ready to go, but impo
 
 Top priority is to figure out how to implement that filter on the todo list and properly display a progress bar or chart on the expense tracker. I also want to finish my React course, especially the section on fetching video games, so I don’t waste more time stuck in the same spot. Keeping it moving, one day at a time.
 
-# Day 5 of 100 — April 12, 2025
+# Day 5 of 100 — April 13, 2025
 
 Five days in, and I’m genuinely enjoying the process. It hasn’t been all smooth sailing — a few bumps here and there — but I’m taking every hiccup as a chance to learn.
 
