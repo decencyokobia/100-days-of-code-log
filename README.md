@@ -171,3 +171,39 @@ For coding, I’ll focus on reviewing everything I’ve learned this week during
 I’ll keep posting my logs and updates on Twitter, even if they’re small. For my blog and LinkedIn, I’ll aim to post weekly — I’d rather deliver quality over quantity. As for YouTube, I’m not quite bold enough for video yet, but… who knows what the future holds?
 
 Thanks for reading. 🙌
+
+# Day 6 of 100 — April 14, 2025
+
+Today marked the start of my night shifts, so I spent part of the day prepping my scrubs and mentally preparing for the usual busyness of the ICU. On the tech side of things, I made progress on my recipe app by successfully adding clickable links to the search results.
+
+In case I hadn’t mentioned it earlier, this recipe app uses the Spoonacular API, and it's one of several small projects I'm working on to reinforce my learning and really solidify the core concepts. Doing this alone isn't always easy—it can feel like a lot—but I’m committed to pushing through.
+
+The project is now live on GitHub, though I still plan to iterate on it to improve the user experience—especially when it comes to how users search for and interact with recipes.
+
+**Learning Points:**
+
+I shared the app with a friend who asked, “Are the recipe images clickable?” At first, they weren’t—but that got me thinking. It would be much better if users could click a recipe and get more detailed information, like cooking instructions or ingredients.
+
+After a quick shower, I turned to ChatGPT and asked whether the Spoonacular API supported this. It did! With some extra parameters added to the existing endpoint, I was able to pull in more detailed data. Revisiting the documentation helped clarify things, and implementing the change became the highlight of my Day 6.
+
+I’ve also been thinking about expanding my weather app—but I’ll probably tackle that next week. Once my work week kicks in, I usually only have the energy to review past work and do light coding.
+
+click on the image to view my project:
+
+<a href='https://decencyokobia.github.io/mini-recipe-app/' alt='screenshot of my recipe app'><img src='/images/recipe-app-in-progress.webp' title='a link to my recipe app'></a>
+
+**Challenges:**
+
+This update wasn’t particularly difficult—just a matter of tweaking the API request with the correct parameters. I also created a .env file to hide my API key and added it to .gitignore for better security. One limitation of the Spoonacular free tier is the 150-request daily cap, but that’s expected with free APIs.
+
+**Reflection:**
+
+Going forward, I’ll make it a point to think like a user when building any project. Listing out potential user questions in advance and trying to address them before deployment should help build more robust and intuitive apps.
+
+**Goals for the Coming Week:** 
+
+Despite a busy shift—including admitting a post-op patient from plastics—I managed to squeeze in some e-learning. I’ll aim to continue that tonight and maybe review some code on my commute home. I couldn’t do much last night since I drove (ended up just having KFC, haha), but once I get a quieter night, I’ll post updates on Twitter.
+
+Busy or not, we keep going. Let’s see what tomorrow brings.
+
+
