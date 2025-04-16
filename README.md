@@ -160,7 +160,7 @@ But if I’m being honest, I still don’t fully know what I’m doing here. �
 
 I’m proud of my progress so far. My plan is to go deeper into the chart.js docs and strengthen my grasp on the filter logic. Most of all — I’m enjoying the journey.
 
-**Goals for the Coming Week:**
+**Goals:**
 
 I'm on night shifts all week, so I’m not expecting a huge amount of progress. That said, I do have a 300-word research proposal to submit on the 17th. Thankfully, I’ve already done half through group discussions, so it shouldn’t be too difficult to complete.
 
@@ -200,10 +200,38 @@ This update wasn’t particularly difficult—just a matter of tweaking the API 
 
 Going forward, I’ll make it a point to think like a user when building any project. Listing out potential user questions in advance and trying to address them before deployment should help build more robust and intuitive apps.
 
-**Goals for the Coming Week:** 
+**Goals:** 
 
 Despite a busy shift—including admitting a post-op patient from plastics—I managed to squeeze in some e-learning. I’ll aim to continue that tonight and maybe review some code on my commute home. I couldn’t do much last night since I drove (ended up just having KFC, haha), but once I get a quieter night, I’ll post updates on Twitter.
 
 Busy or not, we keep going. Let’s see what tomorrow brings.
 
+# Day 7 of 100 — April 15, 2025
 
+Day 7 was light in terms of coding, as expected, due to a busy night at work. Still, I made the most of my break and bus ride home to sneak in some progress—which I’m proud of.
+
+**Learning Points:** 
+
+I explored the OpenWeather API and learned how to retrieve real-time hourly forecasts. While the hourly data requires a paid plan, the free 5-day / 3-hour forecast suits my needs for now. My goal is to mimic the experience of a typical weather app while adding unique features that I’ll reveal once complete.
+
+I’m being intentional about building something valuable without incurring too many costs, so that users can access a high-quality experience for free.
+
+**Challenges:** 
+
+No issues with data fetching or UI rendering so far—I’ve gotten pretty comfortable working with APIs like Spoonacular and OpenWeather, using tools like Axios and Postman to inspect and test endpoints.
+
+My main challenge is managing time and energy, especially balancing work with this 100-day challenge. My goal is to code at least one hour a day, even if it’s just 30 minutes when I’m drained. A little progress every day adds up.
+
+**Reflection:**
+
+This challenge is reinforcing the value of consistency over intensity. Even 2 minutes of effort is better than zero. I’m learning to appreciate small wins and trust the compounding effect of showing up daily.
+
+**Goals:** 
+
+<ul>
+<li>Finalize the new UI for the weather app</li>
+
+<li>Use design inspiration from Dribbble to enhance user experience and visual appeal</li>
+
+<li>Pace myself through the night shifts and spread work across the week</li>
+</ul>
