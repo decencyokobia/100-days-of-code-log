@@ -235,3 +235,52 @@ This challenge is reinforcing the value of consistency over intensity. Even 2 mi
 
 <li>Pace myself through the night shifts and spread work across the week</li>
 </ul>
+
+# Day 8 of 100 — April 16, 2025
+
+Hey everyone! Day 8 of the #100DaysOfCode challenge.
+
+Today, I worked on the user interface for my weather app, aiming for a more modern and clean look. I gave it my best shot, and overall, I’m pretty happy with the progress so far.
+
+To be honest, it’s been tough keeping up—yesterday was incredibly hectic. I had a complicated admission from the OR and was on my feet the entire night. Despite that, I promised myself that even if it’s just an hour a day, I’ll stick with this challenge. I don’t always have time during breaks, so I’m a bit behind on documentation. I usually write these logs first thing in the morning before starting another shift.
+
+**Learning Points:** 
+ <ul>
+<li>I explored using SVG icons for better clarity. The default icons from OpenWeatherAPI were too small and got blurry when resized.</li>
+
+<li>Tried using Pixated, but it didn’t help much.</li>
+
+<li>After some research into what other developers use in weather apps, I found and implemented some better alternatives that suited my needs.</li>
+</ul>
+
+**Challenges:** 
+
+<ul>
+<li>While I got the SVG icons working locally, they didn’t load after deployment on my phone.</li>
+
+<video controls muted>
+<source src="/videos/svg-icons.mp4" type="video/mp4" >
+</video>
+
+<li>I didn’t have time to debug due to work, so I temporarily switched to WeatherAPI’s icons to make sure the app stayed functional.</li>
+
+<video controls muted>
+<source src="/videos/openweather-icon.mp4" type="video/mp4" >
+</video>
+
+<li>Will investigate further during my commute or when I get a moment to breathe.</li>
+</ul>
+
+**Reflection:** 
+
+Some logic works perfectly in your head and during local development, but things shift after deployment—this was one of those days. I’m not being too hard on myself though. I’m running on little rest and still have four more night shifts ahead. The important thing is that I’m still putting in the effort, even if it’s small.
+
+**Goals:**  
+
+<ol>
+<li>Keep the momentum going, no matter how busy life gets.</li>
+
+<li>Improve the weather icons and make sure they load reliably on all devices.</li>
+
+<li>Catch up on logging my progress regularly.</li>
+</ol>
