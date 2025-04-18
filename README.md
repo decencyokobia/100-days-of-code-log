@@ -284,3 +284,28 @@ Some logic works perfectly in your head and during local development, but things
 
 <li>Catch up on logging my progress regularly.</li>
 </ol>
+
+
+# Day 9 of 100 — April 17, 2025
+
+Today, I attempted to implement a basic to-do list to test my memory on working with filters, marking tasks as complete, and general list functionality. Thankfully, I remembered the logic well and was able to build it as expected. Once I was done, I deleted the file—mission accomplished.
+
+**Learning Points:** 
+<ul>
+<li>I reminded myself to avoid tautology (repeating logic unnecessarily), which can easily break the flow of code.</li>
+
+<li>Aside from that, I didn't pick up any new technical concepts today.</li>
+
+<li>On the non-coding side, I completed my appraisal, did some e-learning, and handled an admission case (an overdose). It was manageable but still kept me on my toes—my 4th night shift. </li>
+</ul>
+
+**Challenges:** 
+<ol>
+<li>No real technical challenges today.</li>
+
+<li>The only issue was staying awake on my way home. As I write this, I haven’t even made it back yet because the bus was delayed—Good Friday traffic, of course.</li>
+</ol>
+
+**Goals:**  
+
+No big goals for now—just taking it slow. It's the end of the week, and I'm absolutely knackered.
