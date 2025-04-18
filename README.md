@@ -309,3 +309,21 @@ Today, I attempted to implement a basic to-do list to test my memory on working 
 **Goals:**  
 
 No big goals for now—just taking it slow. It's the end of the week, and I'm absolutely knackered.
+
+# Day 10 of 100 — April 18, 2025
+
+Today, just before heading in for my night shift, I finally got around to something I’ve been meaning to do for a while — start tracking how many users visit my website. I also want to better understand how to improve it and ensure it's optimized for SEO.
+
+To get started, I installed Lighthouse and created a Google Analytics account to begin monitoring my website’s activity.
+
+**Learning Points:** 
+
+I went through the Google Analytics documentation and successfully added the tracking script to every page of my site, as instructed. I also learned how Lighthouse works — how it evaluates performance, SEO, accessibility, and more. The percentage-based scores are super helpful in seeing how my site holds up across desktop and mobile.
+
+**Challenges:** 
+
+One thing I’m still struggling with is Google Search Console not picking up my sitemap. I’ve used multiple tools to validate it, and everything looks correct, but Google still says “Not fetched.” I plan to dig into this more when I have time to troubleshoot further.
+
+**Goals:**  
+
+My goals remain the same for now. Once my work week wraps up, I’ll post a recap on my blog and share it on LinkedIn, Twitter, and WhatsApp.
