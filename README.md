@@ -327,3 +327,36 @@ One thing I’m still struggling with is Google Search Console not picking up my
 **Goals:**  
 
 My goals remain the same for now. Once my work week wraps up, I’ll post a recap on my blog and share it on LinkedIn, Twitter, and WhatsApp.
+
+# Day 11 of 100 — April 19, 2025
+
+Today I worked on improving the user experience in my weather app by adding dynamic recommendations based on current weather conditions. I used the main weather condition from the OpenWeather API to trigger context-aware tips, like suggesting hot cocoa during snow or reminding users to carry an umbrella when it rains.
+
+This small but thoughtful feature adds personality to the app and makes it feel more human and engaging. It also sets my app apart from basic weather apps that just display data.
+
+**Learning Points:** 
+
+<ol>
+<li>Learned how to map API data (main weather conditions) to custom UI responses.</li>
+
+<li>Improved my JavaScript logic to handle condition-based messaging.</li>
+
+<li>Realized how micro-interactions and small UX touches can make a big impact.</li>
+</ol>
+
+**Challenges:** 
+
+<ol>
+<li>Choosing the right message tone—finding a balance between helpful and playful.</li>
+
+<li>Had to clean up some if-else logic and switch to a cleaner structure for future scalability (like using objects or arrays).</li>
+
+<li>Still learning how to keep features lightweight and fast without bloating the UI.</li>
+</ol>
+
+**Goals:** 
+<ul>
+<li>Next, I want to improve the recommendation to output more random options for one weather condition.</li>
+
+Document the app’s features so far and consider posting a mid-week update on LinkedIn and my blog.
+</ul>
