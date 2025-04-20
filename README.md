@@ -360,3 +360,41 @@ This small but thoughtful feature adds personality to the app and makes it feel 
 
 Document the app’s features so far and consider posting a mid-week update on LinkedIn and my blog.
 </ul>
+
+# Day 12 of 100 — April 20, 2025
+
+Today, I improved my weather app by adding personalized recommendations based on the current weather condition using the OpenWeatherAPI. I created a structured set of suggestions for each weather type (e.g. Clear, Rain, Snow, etc.) and implemented a function that returns a random suggestion depending on the day’s weather.
+
+**Learning Points:** 
+
+<ul>
+<li>Learned how to work with enums and union types in TypeScript to ensure type safety when working with dynamic keys.</li>
+
+<li>Used Math.random() and Math.floor() to fetch a random suggestion from an array of tips.</li>
+
+<li>Gained more confidence in creating structured data with Record<key, value> in TypeScript.</li>
+
+<li>Cleaned and organized weather condition-based UX improvements in an array of strings for easy scaling.</li>
+</ul>
+
+**Challenges:** 
+
+<ol>
+<li>Faced a TypeScript error when indexing an object with a dynamic string — resolved it by defining a custom type (WeatherType) to make TypeScript happy and the code cleaner.</li>
+
+<li>Ensured that invalid or unsupported weather types don’t break the app by handling fallbacks gracefully.</li>
+</ol>
+
+**Goals:** 
+
+<ul>
+<li>Add multiple suggestions and maybe allow users to “shuffle” or see more than one tip.</li>
+
+<li>Possibly categorize recommendations (e.g. indoor, outdoor, food, etc.) for future expansion.</li>
+
+<li>Continue building out this weather app with a chatbot or AI layer in the future to give helpful tips interactively.</li>
+</ul>
+
+
+
+
