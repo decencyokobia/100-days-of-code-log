@@ -395,6 +395,32 @@ Today, I improved my weather app by adding personalized recommendations based on
 <li>Continue building out this weather app with a chatbot or AI layer in the future to give helpful tips interactively.</li>
 </ul>
 
+# Day 13 of 100 — April 21, 2025
 
+Finally wrapped up a long stretch of 7 night shifts — it was hectic, no doubt, but I pushed through. I didn’t dive into a new project just yet, but I did spend some time tweaking my existing ones. From tomorrow, I might start something fresh or just keep refining what I’ve already built — depends on where the inspiration takes me.
 
+Today, I made some updates to my portfolio website based on feedback I got from a developer I connected with. I discovered his YouTube channel where he offers help to beginners by reviewing their portfolio sites. I reached out via email, and thankfully, he responded with some solid recommendations.
 
+I’ve been self-teaching for about 5 months now, just following online roadmaps and figuring things out solo. So getting feedback from a senior full-stack dev was a big deal for me — it felt like the guidance I’d been missing.
+
+**Learning Points:**  
+
+I finally fixed a bug on my portfolio site and genuinely appreciated the feedback I received.
+Biggest takeaway: Don’t be afraid to ask for feedback — and more importantly, apply it. It really helped me level up and see my work from a different perspective. 
+
+**Challenges:**  
+
+Since my portfolio was built using a pre-made template, I had to dig deep into the existing CSS and jQuery code. I’ve never worked with jQuery before, so it was a bit of a challenge to tweak things the way I wanted. But I managed to figure out my own workaround and get the results I was aiming for.
+
+**Goals:**  
+
+This week, I want to keep the momentum going:
+<ul>
+<li>Finish up my React course</li>
+
+<li>Complete the video game platform I’ve been building with Chakra UI</li>
+
+<li>Implement the rest of the suggestions from fullstackbro</li>
+
+<li>Share my progress on my blog and other platforms before the week’s over</li>
+</ul>
