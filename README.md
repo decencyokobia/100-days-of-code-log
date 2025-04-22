@@ -424,3 +424,30 @@ This week, I want to keep the momentum going:
 
 <li>Share my progress on my blog and other platforms before the week’s over</li>
 </ul>
+
+# Day 14 of 100 — April 22, 2025 
+
+Today was a somewhat productive one. I slept in a bit after staying up late trying to finish my research formative proposal. I managed to complete and submit it—although it's not graded, I’m keen on the feedback to better prepare for my summative assessment in June.
+
+I also implemented the final set of suggestions from FullStackBro on my portfolio and plan to send him a thank-you email shortly. Plus, I managed to share my latest blog post on Twitter, LinkedIn, and my website. It’s been hectic juggling everything, but I’m learning a lot in the process.
+
+**Learning Points:**  
+
+<ul>
+<li>While working on my weather app, I learned how to create a function to map recommendations instead of rendering raw data directly onto the card component. This made my code cleaner and more dynamic—shoutout to FullStackBro for pointing that out!</li>
+
+<li>I ran into a challenge linking directly to a blog post on my portfolio. Since it’s a static site, I couldn’t link to dynamic content easily. So, I created a separate blogpage.html and linked it to my main HTML. Not the most elegant solution, but it works—and more importantly, I now understand why it was necessary.</li>
+</ul>
+
+**Challenges:**  
+
+I had an issue where my new JavaScript file for the blog page wasn't working. Turns out I was referencing it as a folder instead of a file—so none of my buttons were functioning. After some debugging, I figured it out. Blog is now fully up and running! 🙌
+
+👉 Check it out: <a href="https://decencyokobia.github.io/website/blogpage.html" title="link to my blog posts" target="_blank">Read today's blog post</a>.
+
+**Goals:** 
+
+<ul>
+<li>Finish up my React course</li>
+<li>Complete the video game platform I’ve been building with Chakra UI</li>
+</ul>
