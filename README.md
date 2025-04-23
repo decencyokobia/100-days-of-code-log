@@ -451,3 +451,29 @@ I had an issue where my new JavaScript file for the blog page wasn't working. Tu
 <li>Finish up my React course</li>
 <li>Complete the video game platform I’ve been building with Chakra UI</li>
 </ul>
+
+# Day 15 of 100 — April 23, 2025 
+
+Today, I wrapped up my beginner React course and completed the video game application I’ve been working on! I took a few short breaks along the way to stay focused, and overall, I found the course really enjoyable—even though Chakra UI is new to me.
+
+**Learning Points:** 
+
+<ul>
+<li>I learned how to create and use static data in my project. This can be handy when you want reliable UI without depending on network calls—especially for relatively stable values like genre or platform filters.</li>
+
+<li>I also deployed my app using Vercel! It was a smooth experience, quite similar to GitHub Pages, though React requires gh-pages for GitHub hosting.</li>
+</ul>
+
+**Challenges:** 
+
+<ol>
+<li>I tried implementing sorting on my own before watching the course section on it. I couldn’t quite crack it solo and found the concept a bit tricky.</li>
+
+<li>Since Chakra UI is still unfamiliar, I relied heavily on documentation—both while following along with the instructor and during my own coding. That said, I’m starting to appreciate its utility.</li>
+
+<li>Long-term, I still see Tailwind CSS becoming my go-to tool for styling.</li>
+</ol>
+
+**Goals:**  
+
+I want to rebuild the video game app—or find a similar free API—and practice everything I’ve learned so far, including sorting and conditional logic. It feels great knowing I was able to build my weather and recipe apps using the same skills even before finishing this course.
