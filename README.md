@@ -3,15 +3,15 @@
 **Start Date:** April 09, 2025.
 **Main Goal:** Code for 100 days, track progress, and build real-world skills.
 
-# Introduction 
+# Introduction
 
 I started learning to code / programme since 17th of November 2024. I have built little projects to reinforce what I have learnt and have pushed these projects to my github, you can view my <a href='https://github.com/decencyokobia?tab=repositories' target='_blank' title="decency's github repositories">repositories</a>. I have created this repository to document my #100DaysOfCode challenge. Wish me luck! Let's go!
 
 # Day 1 - April 09, 2025.
 
-After sometime I have finally built my own website by refactoring a ready-made template to get my website up and running as well as learn how to modify other people's code and not causing a bug or break in the architecture. My website has an about me section, portfolio, blog and contact pages. I had a great time costomizing it to my own taste. Also I had started learning react since 16th March 2025, so i have created a todolist and an expense tracker multiple times and also learnt how to useState, useEffect (but likely in API request and also tracking changes in my todolist and expense tracker for localstorage purposes) and building reusable UI components (main purpose of react as a javascript library). Since i had to put these on my portfolio, had to learn how to host react projects on github via gh-pages. Finally hosted both after long hours of googling and asking chatGPT questions. It was quite simple when i was doing the next one after the first. 
+After sometime I have finally built my own website by refactoring a ready-made template to get my website up and running as well as learn how to modify other people's code and not causing a bug or break in the architecture. My website has an about me section, portfolio, blog and contact pages. I had a great time costomizing it to my own taste. Also I had started learning react since 16th March 2025, so i have created a todolist and an expense tracker multiple times and also learnt how to useState, useEffect (but likely in API request and also tracking changes in my todolist and expense tracker for localstorage purposes) and building reusable UI components (main purpose of react as a javascript library). Since i had to put these on my portfolio, had to learn how to host react projects on github via gh-pages. Finally hosted both after long hours of googling and asking chatGPT questions. It was quite simple when i was doing the next one after the first.
 
-**learning point:-** 
+**learning point:-**
 
 1. Website creation
 2. Build and deployment of react + typescript projects
@@ -19,9 +19,9 @@ After sometime I have finally built my own website by refactoring a ready-made t
 
 **Challenges:**
 
-It was all good stuff all the way. I had challenges while trying to make my react projects live and had to work with JSON files to make that the strict and homepage was all configured to build and deploy my react project. Even after i had finished, I went back to rebuild the todolist and expense tracker to implement localstorge and also configure the files for deployment whuch was a little bit challenging but this time i forced my brain to recall and understand why i had to make what and what. 
+It was all good stuff all the way. I had challenges while trying to make my react projects live and had to work with JSON files to make that the strict and homepage was all configured to build and deploy my react project. Even after i had finished, I went back to rebuild the todolist and expense tracker to implement localstorge and also configure the files for deployment whuch was a little bit challenging but this time i forced my brain to recall and understand why i had to make what and what.
 
-**Reflection:-** 
+**Reflection:-**
 
 The most interesting part of my journey so far is that 5 months ago, I didn't know how the web worked and now I have started to figure something out and makes me want to learn more. I am excited about learning more about APIs, handling more complex state management in React and soon Next.js to build beautiful web applications.
 
@@ -29,29 +29,28 @@ The most interesting part of my journey so far is that 5 months ago, I didn't kn
 
 My next goal will be to refresh my mind on how to fetch data with axios using weatherApi free apikey. Hopefully this week and finish my course on how to build a video game fetching app using chakra, but trust me I am taking it slowly as this is the best way I assimilate things.
 
-
 # Day 2 - April 10, 2025.
 
 Today has been a successful day for me, and I hope the same for you! It's Day 2 of #100DaysOfCode, and I’ve managed to develop a mini weather app. It's not deployed yet, but that's my goal for tomorrow. Aside from coding and developing my technical skills, I've also been focusing on improving my time management. I realized I could easily spend the whole day on my laptop, especially after eating and showering. I tend to avoid distractions like video games, which is a good thing, but I want to strike a better balance.
 
 I came across a concept called the 8-8-8 rule: 8 hours of work, 8 hours of sleep, and 8 hours of leisure with family or friends, or anything non-work related. I didn't fully implement it today, but it's something I'm working towards. Anyway, back to the weather app I built. I’ll share my key takeaways, challenges, reflections, and goals under the following headings:
 
-**learning point:-** 
+**learning point:-**
 
 1. Axios & useEffect:
-Axios is a popular library in React used to fetch data, similar to the fetch API in vanilla JavaScript. I’ve used Axios before, so I’m familiar with how to fetch data and handle errors in the console. useEffect is a React hook used to manage side effects, like fetching data. Today, I managed to structure my app by creating a services folder with an api-client.ts and an apiKey.ts file. This modular approach helped keep things clean and organized.
+   Axios is a popular library in React used to fetch data, similar to the fetch API in vanilla JavaScript. I’ve used Axios before, so I’m familiar with how to fetch data and handle errors in the console. useEffect is a React hook used to manage side effects, like fetching data. Today, I managed to structure my app by creating a services folder with an api-client.ts and an apiKey.ts file. This modular approach helped keep things clean and organized.
 
 2. AbortController:
-This was a new concept for me. The AbortController is used to cancel HTTP requests, which helps prevent unwanted re-renders or remounting due to React's strict implementation. I used it to signal the request cancellation once the data was fetched, making my app more efficient.
+   This was a new concept for me. The AbortController is used to cancel HTTP requests, which helps prevent unwanted re-renders or remounting due to React's strict implementation. I used it to signal the request cancellation once the data was fetched, making my app more efficient.
 
 3. Weather Icons:
-Initially, I thought I’d just hardcode icons based on the weather type. But then, I realized I could use an array to store the icons and dynamically reference them using the index. This was a simple array iteration concept, but with React, I didn’t have to manually loop through as I would in vanilla JavaScript. Also, I learned how to use as keyof typeof for arrays, which helps avoid undefined errors when indexing.
-   
+   Initially, I thought I’d just hardcode icons based on the weather type. But then, I realized I could use an array to store the icons and dynamically reference them using the index. This was a simple array iteration concept, but with React, I didn’t have to manually loop through as I would in vanilla JavaScript. Also, I learned how to use as keyof typeof for arrays, which helps avoid undefined errors when indexing.
+
 **Challenges:**
 
-I encountered some challenges fetching the data today, despite having worked with APIs before. Each API structure is different, so it took a bit of trial and error to map my data correctly. Some responses were arrays of objects, others were objects containing arrays and other objects. I quickly realized that logging the response in the console was essential for understanding the structure and ensuring I defined the correct props. It was a bit frustrating at times, but ultimately, I made it work, and that’s what matters. 
+I encountered some challenges fetching the data today, despite having worked with APIs before. Each API structure is different, so it took a bit of trial and error to map my data correctly. Some responses were arrays of objects, others were objects containing arrays and other objects. I quickly realized that logging the response in the console was essential for understanding the structure and ensuring I defined the correct props. It was a bit frustrating at times, but ultimately, I made it work, and that’s what matters.
 
-**Reflection:-** 
+**Reflection:-**
 
 Looking back, I would make sure to study the structure of the data before trying to fetch it, to better align my props with how the data is structured. There’s always room for improvement, but I’m proud of the progress I made today. One of the highlights was using React Hook Form and Bootstrap to create a dynamic input field, which allowed me to change the city in the weather app without hardcoding values. I had a similar experience while working on my expense tracker project, so it felt great to apply what I learned in one project to another seamlessly. To me, programming is all about taking an idea, explaining it clearly (even to yourself), and then implementing it with the right tools. If you can break it down, you can build it.
 
@@ -60,14 +59,15 @@ Looking back, I would make sure to study the structure of the data before trying
 My next goal is to deploy the weather app and refine it a bit before pushing it to GitHub Pages. I’m not focusing too much on UI/UX right now, but I’ll make sure to fine-tune it tomorrow before the deployment. I’ve also got my MSc project to consider, but for now, I’m staying motivated and pushing forward. No giving up!
 
 # Screenshot of the weather app
+
 <img src='/images/Screenshot 1.png' alt='screenshot of my weather app 1'>
 <img src='/images/Screenshot 2.png' alt='screenshot of my weather app 2'>
 
 # Day 3 - April 11, 2025.
 
-Today I focused on improving the UX/UI of my weather app. I implemented local storage for better state persistence and added a toggle for switching between light and dark modes. I also moved away from a static array of weather icons and instead now fetch icons dynamically from the API — way cleaner and more efficient. 
+Today I focused on improving the UX/UI of my weather app. I implemented local storage for better state persistence and added a toggle for switching between light and dark modes. I also moved away from a static array of weather icons and instead now fetch icons dynamically from the API — way cleaner and more efficient.
 
-**learning point:-** 
+**learning point:-**
 
 A big highlight was learning how to fetch temperature values directly in Celsius using API parameters, which saved me from doing manual math conversions. I also got deeper into error handling, learned to interpret console responses more effectively, and implemented a custom alert system.
 
@@ -78,7 +78,7 @@ A big highlight was learning how to fetch temperature values directly in Celsius
 
 Today wasn’t too challenging compared to yesterday. The only hiccup was figuring out how to separate API calls from the rest of the app structure — specifically creating a custom hook for HTTP requests, error handling, and loading states. I didn’t Google anything; just tried to jog my memory and experiment through trial and error. Eventually, I nailed it: separated the API key, created a custom hook, and got it all working smoothly.
 
-**Reflection:-** 
+**Reflection:-**
 
 Honestly, I’m proud of how far I’ve come. I’m especially happy that everything is functional and that I was able to cleanly separate concerns in my code — HTTP requests are no longer tangled into my main app logic. That feels like a solid dev move and a step in the right direction toward writing more scalable, maintainable code.
 
@@ -94,7 +94,7 @@ Also, on the content front: I’ve started posting on Twitter daily, aiming for 
 
 Today was a mixed bag. I started the day with a clear set of goals: add a filter to my todo list, implement a clear button, add a date to my expense tracker, attempt a progress bar or pie chart, ensure everything used local storage, and work on my recipe app. Sadly, I didn’t touch the video app at all—feeling a bit bad about that, but hey, I’m just a tired man trying to make it. 😅
 
-**learning point:-** 
+**learning point:-**
 
 The highlight was the recipe app. I integrated the Spoonacular API and had to dive into the documentation, which turned out to be a great learning experience. I haven’t done much UI-wise yet, but I did manage to set up an input field that dynamically changes the recipe based on user input—pretty much using the same logic as my weather API and expense tracker. And it worked! Always feels good when the logic holds up.
 
@@ -104,7 +104,7 @@ Today hit me with some roadblocks. I really wanted to figure things out myself w
 
 I also added the date feature to my expense tracker—thankfully, that was smooth sailing since I’ve worked with the Date object before. I tried to implement a progress bar or pie chart for the tracker too, but it just didn’t look right. So I pushed what I had and updated my site. Definitely felt a bit frustrated not hitting all my goals today.
 
-**Reflection:-** 
+**Reflection:-**
 
 Not gonna lie—I felt a bit rubbish not being able to implement the filter or the progress bar. It had me questioning myself like, “Do I even know what I’m doing?” 😅 But on the flip side, getting the recipe app to fetch properly was a win. Small victories, right?
 
@@ -137,9 +137,9 @@ Here’s what I learned while implementing a filter:
 3. Render conditionally based on the filter, like this:
 
 const displayTodos = todos.filter(todo => {
-  if (filter === 'active') return !todo.complete;
-  if (filter === 'completed') return todo.complete;
-  return true; // for 'all'
+if (filter === 'active') return !todo.complete;
+if (filter === 'completed') return todo.complete;
+return true; // for 'all'
 });
 
 This displayTodos is what gets rendered in the UI. Understanding this flow has been a win for me, and I’ll keep practicing it until it clicks fully.
@@ -200,7 +200,7 @@ This update wasn’t particularly difficult—just a matter of tweaking the API 
 
 Going forward, I’ll make it a point to think like a user when building any project. Listing out potential user questions in advance and trying to address them before deployment should help build more robust and intuitive apps.
 
-**Goals:** 
+**Goals:**
 
 Despite a busy shift—including admitting a post-op patient from plastics—I managed to squeeze in some e-learning. I’ll aim to continue that tonight and maybe review some code on my commute home. I couldn’t do much last night since I drove (ended up just having KFC, haha), but once I get a quieter night, I’ll post updates on Twitter.
 
@@ -210,13 +210,13 @@ Busy or not, we keep going. Let’s see what tomorrow brings.
 
 Day 7 was light in terms of coding, as expected, due to a busy night at work. Still, I made the most of my break and bus ride home to sneak in some progress—which I’m proud of.
 
-**Learning Points:** 
+**Learning Points:**
 
 I explored the OpenWeather API and learned how to retrieve real-time hourly forecasts. While the hourly data requires a paid plan, the free 5-day / 3-hour forecast suits my needs for now. My goal is to mimic the experience of a typical weather app while adding unique features that I’ll reveal once complete.
 
 I’m being intentional about building something valuable without incurring too many costs, so that users can access a high-quality experience for free.
 
-**Challenges:** 
+**Challenges:**
 
 No issues with data fetching or UI rendering so far—I’ve gotten pretty comfortable working with APIs like Spoonacular and OpenWeather, using tools like Axios and Postman to inspect and test endpoints.
 
@@ -226,7 +226,7 @@ My main challenge is managing time and energy, especially balancing work with th
 
 This challenge is reinforcing the value of consistency over intensity. Even 2 minutes of effort is better than zero. I’m learning to appreciate small wins and trust the compounding effect of showing up daily.
 
-**Goals:** 
+**Goals:**
 
 <ul>
 <li>Finalize the new UI for the weather app</li>
@@ -244,7 +244,8 @@ Today, I worked on the user interface for my weather app, aiming for a more mode
 
 To be honest, it’s been tough keeping up—yesterday was incredibly hectic. I had a complicated admission from the OR and was on my feet the entire night. Despite that, I promised myself that even if it’s just an hour a day, I’ll stick with this challenge. I don’t always have time during breaks, so I’m a bit behind on documentation. I usually write these logs first thing in the morning before starting another shift.
 
-**Learning Points:** 
+**Learning Points:**
+
  <ul>
 <li>I explored using SVG icons for better clarity. The default icons from OpenWeatherAPI were too small and got blurry when resized.</li>
 
@@ -253,7 +254,7 @@ To be honest, it’s been tough keeping up—yesterday was incredibly hectic. I 
 <li>After some research into what other developers use in weather apps, I found and implemented some better alternatives that suited my needs.</li>
 </ul>
 
-**Challenges:** 
+**Challenges:**
 
 <ul>
 <li>While I got the SVG icons working locally, they didn’t load after deployment on my phone.</li>
@@ -271,11 +272,11 @@ To be honest, it’s been tough keeping up—yesterday was incredibly hectic. I 
 <li>Will investigate further during my commute or when I get a moment to breathe.</li>
 </ul>
 
-**Reflection:** 
+**Reflection:**
 
 Some logic works perfectly in your head and during local development, but things shift after deployment—this was one of those days. I’m not being too hard on myself though. I’m running on little rest and still have four more night shifts ahead. The important thing is that I’m still putting in the effort, even if it’s small.
 
-**Goals:**  
+**Goals:**
 
 <ol>
 <li>Keep the momentum going, no matter how busy life gets.</li>
@@ -285,12 +286,12 @@ Some logic works perfectly in your head and during local development, but things
 <li>Catch up on logging my progress regularly.</li>
 </ol>
 
-
 # Day 9 of 100 — April 17, 2025
 
 Today, I attempted to implement a basic to-do list to test my memory on working with filters, marking tasks as complete, and general list functionality. Thankfully, I remembered the logic well and was able to build it as expected. Once I was done, I deleted the file—mission accomplished.
 
-**Learning Points:** 
+**Learning Points:**
+
 <ul>
 <li>I reminded myself to avoid tautology (repeating logic unnecessarily), which can easily break the flow of code.</li>
 
@@ -299,14 +300,15 @@ Today, I attempted to implement a basic to-do list to test my memory on working 
 <li>On the non-coding side, I completed my appraisal, did some e-learning, and handled an admission case (an overdose). It was manageable but still kept me on my toes—my 4th night shift. </li>
 </ul>
 
-**Challenges:** 
+**Challenges:**
+
 <ol>
 <li>No real technical challenges today.</li>
 
 <li>The only issue was staying awake on my way home. As I write this, I haven’t even made it back yet because the bus was delayed—Good Friday traffic, of course.</li>
 </ol>
 
-**Goals:**  
+**Goals:**
 
 No big goals for now—just taking it slow. It's the end of the week, and I'm absolutely knackered.
 
@@ -316,15 +318,15 @@ Today, just before heading in for my night shift, I finally got around to someth
 
 To get started, I installed Lighthouse and created a Google Analytics account to begin monitoring my website’s activity.
 
-**Learning Points:** 
+**Learning Points:**
 
 I went through the Google Analytics documentation and successfully added the tracking script to every page of my site, as instructed. I also learned how Lighthouse works — how it evaluates performance, SEO, accessibility, and more. The percentage-based scores are super helpful in seeing how my site holds up across desktop and mobile.
 
-**Challenges:** 
+**Challenges:**
 
 One thing I’m still struggling with is Google Search Console not picking up my sitemap. I’ve used multiple tools to validate it, and everything looks correct, but Google still says “Not fetched.” I plan to dig into this more when I have time to troubleshoot further.
 
-**Goals:**  
+**Goals:**
 
 My goals remain the same for now. Once my work week wraps up, I’ll post a recap on my blog and share it on LinkedIn, Twitter, and WhatsApp.
 
@@ -334,7 +336,7 @@ Today I worked on improving the user experience in my weather app by adding dyna
 
 This small but thoughtful feature adds personality to the app and makes it feel more human and engaging. It also sets my app apart from basic weather apps that just display data.
 
-**Learning Points:** 
+**Learning Points:**
 
 <ol>
 <li>Learned how to map API data (main weather conditions) to custom UI responses.</li>
@@ -344,7 +346,7 @@ This small but thoughtful feature adds personality to the app and makes it feel 
 <li>Realized how micro-interactions and small UX touches can make a big impact.</li>
 </ol>
 
-**Challenges:** 
+**Challenges:**
 
 <ol>
 <li>Choosing the right message tone—finding a balance between helpful and playful.</li>
@@ -354,18 +356,20 @@ This small but thoughtful feature adds personality to the app and makes it feel 
 <li>Still learning how to keep features lightweight and fast without bloating the UI.</li>
 </ol>
 
-**Goals:** 
+**Goals:**
+
 <ul>
 <li>Next, I want to improve the recommendation to output more random options for one weather condition.</li>
 
 Document the app’s features so far and consider posting a mid-week update on LinkedIn and my blog.
+
 </ul>
 
 # Day 12 of 100 — April 20, 2025
 
 Today, I improved my weather app by adding personalized recommendations based on the current weather condition using the OpenWeatherAPI. I created a structured set of suggestions for each weather type (e.g. Clear, Rain, Snow, etc.) and implemented a function that returns a random suggestion depending on the day’s weather.
 
-**Learning Points:** 
+**Learning Points:**
 
 <ul>
 <li>Learned how to work with enums and union types in TypeScript to ensure type safety when working with dynamic keys.</li>
@@ -377,7 +381,7 @@ Today, I improved my weather app by adding personalized recommendations based on
 <li>Cleaned and organized weather condition-based UX improvements in an array of strings for easy scaling.</li>
 </ul>
 
-**Challenges:** 
+**Challenges:**
 
 <ol>
 <li>Faced a TypeScript error when indexing an object with a dynamic string — resolved it by defining a custom type (WeatherType) to make TypeScript happy and the code cleaner.</li>
@@ -385,7 +389,7 @@ Today, I improved my weather app by adding personalized recommendations based on
 <li>Ensured that invalid or unsupported weather types don’t break the app by handling fallbacks gracefully.</li>
 </ol>
 
-**Goals:** 
+**Goals:**
 
 <ul>
 <li>Add multiple suggestions and maybe allow users to “shuffle” or see more than one tip.</li>
@@ -403,18 +407,19 @@ Today, I made some updates to my portfolio website based on feedback I got from 
 
 I’ve been self-teaching for about 5 months now, just following online roadmaps and figuring things out solo. So getting feedback from a senior full-stack dev was a big deal for me — it felt like the guidance I’d been missing.
 
-**Learning Points:**  
+**Learning Points:**
 
 I finally fixed a bug on my portfolio site and genuinely appreciated the feedback I received.
-Biggest takeaway: Don’t be afraid to ask for feedback — and more importantly, apply it. It really helped me level up and see my work from a different perspective. 
+Biggest takeaway: Don’t be afraid to ask for feedback — and more importantly, apply it. It really helped me level up and see my work from a different perspective.
 
-**Challenges:**  
+**Challenges:**
 
 Since my portfolio was built using a pre-made template, I had to dig deep into the existing CSS and jQuery code. I’ve never worked with jQuery before, so it was a bit of a challenge to tweak things the way I wanted. But I managed to figure out my own workaround and get the results I was aiming for.
 
-**Goals:**  
+**Goals:**
 
 This week, I want to keep the momentum going:
+
 <ul>
 <li>Finish up my React course</li>
 
@@ -425,13 +430,13 @@ This week, I want to keep the momentum going:
 <li>Share my progress on my blog and other platforms before the week’s over</li>
 </ul>
 
-# Day 14 of 100 — April 22, 2025 
+# Day 14 of 100 — April 22, 2025
 
 Today was a somewhat productive one. I slept in a bit after staying up late trying to finish my research formative proposal. I managed to complete and submit it—although it's not graded, I’m keen on the feedback to better prepare for my summative assessment in June.
 
 I also implemented the final set of suggestions from FullStackBro on my portfolio and plan to send him a thank-you email shortly. Plus, I managed to share my latest blog post on Twitter, LinkedIn, and my website. It’s been hectic juggling everything, but I’m learning a lot in the process.
 
-**Learning Points:**  
+**Learning Points:**
 
 <ul>
 <li>While working on my weather app, I learned how to create a function to map recommendations instead of rendering raw data directly onto the card component. This made my code cleaner and more dynamic—shoutout to FullStackBro for pointing that out!</li>
@@ -439,24 +444,24 @@ I also implemented the final set of suggestions from FullStackBro on my portfoli
 <li>I ran into a challenge linking directly to a blog post on my portfolio. Since it’s a static site, I couldn’t link to dynamic content easily. So, I created a separate blogpage.html and linked it to my main HTML. Not the most elegant solution, but it works—and more importantly, I now understand why it was necessary.</li>
 </ul>
 
-**Challenges:**  
+**Challenges:**
 
 I had an issue where my new JavaScript file for the blog page wasn't working. Turns out I was referencing it as a folder instead of a file—so none of my buttons were functioning. After some debugging, I figured it out. Blog is now fully up and running! 🙌
 
 👉 Check it out: <a href="https://decencyokobia.github.io/website/blogpage.html" title="link to my blog posts" target="_blank">Read today's blog post</a>.
 
-**Goals:** 
+**Goals:**
 
 <ul>
 <li>Finish up my React course</li>
 <li>Complete the video game platform I’ve been building with Chakra UI</li>
 </ul>
 
-# Day 15 of 100 — April 23, 2025 
+# Day 15 of 100 — April 23, 2025
 
 Today, I wrapped up my beginner React course and completed the video game application I’ve been working on! I took a few short breaks along the way to stay focused, and overall, I found the course really enjoyable—even though Chakra UI is new to me.
 
-**Learning Points:** 
+**Learning Points:**
 
 <ul>
 <li>I learned how to create and use static data in my project. This can be handy when you want reliable UI without depending on network calls—especially for relatively stable values like genre or platform filters.</li>
@@ -464,7 +469,7 @@ Today, I wrapped up my beginner React course and completed the video game applic
 <li>I also deployed my app using Vercel! It was a smooth experience, quite similar to GitHub Pages, though React requires gh-pages for GitHub hosting.</li>
 </ul>
 
-**Challenges:** 
+**Challenges:**
 
 <ol>
 <li>I tried implementing sorting on my own before watching the course section on it. I couldn’t quite crack it solo and found the concept a bit tricky.</li>
@@ -474,6 +479,36 @@ Today, I wrapped up my beginner React course and completed the video game applic
 <li>Long-term, I still see Tailwind CSS becoming my go-to tool for styling.</li>
 </ol>
 
-**Goals:**  
+**Goals:**
 
 I want to rebuild the video game app—or find a similar free API—and practice everything I’ve learned so far, including sorting and conditional logic. It feels great knowing I was able to build my weather and recipe apps using the same skills even before finishing this course.
+
+# Day 16 of 100 — April 24, 2025
+
+Today, I officially stepped into the world of React Native using Expo, and wow — it's a whole new game. From setting up my dev environment (Xcode, Android Studio, and Expo CLI) to testing apps on both iOS and Android simulators, it was intense but exciting.
+
+**Learning Points:**
+
+<ul>
+<li>Set up and run a project with Expo</li>
+
+<li>Use Metro bundler and simulators</li>
+
+<li>Fix common setup issues (debugging, permissions, EAS CLI)</li>
+
+<li>Understand how Expo helps with app sharing without needing the App Store</li>
+</ul>
+
+**Challenges:**
+
+<ul>
+<li>Debugger not opening in Chrome</li>
+
+<li>Figuring out the difference between Expo CLI and EAS CLI</li>
+
+<li>Permission errors while installing packages</li>
+</ul>
+
+**Goals:**
+
+Tomorrow and throughout the rest of the week, I’ll be revisiting everything I learned today to really solidify it. Then, I’ll start working on building the video game app for mobile — bringing in sorting and all the logic I’ve picked up so far in React.
