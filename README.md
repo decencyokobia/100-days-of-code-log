@@ -512,3 +512,44 @@ Today, I officially stepped into the world of React Native using Expo, and wow �
 **Goals:**
 
 Tomorrow and throughout the rest of the week, I’ll be revisiting everything I learned today to really solidify it. Then, I’ll start working on building the video game app for mobile — bringing in sorting and all the logic I’ve picked up so far in React.
+
+# Day 17 of 100 — April 25, 2025
+
+Today I made solid progress in my React Native journey. I continued with my course, focusing on creating reusable components and learning how to style them effectively across both Android and iOS. The sample project in the course was a marketplace-style app for selling secondhand items, which gave me a solid foundation in structuring a real-world application.
+
+After the course session (and a good pizza break 🍕), I started building my own app, I’ll continue refining over time. I implemented custom button components, organized my project into logical folders (app, components, config, etc.), and experimented with background images and styling.
+
+**Learning Points:**
+
+<ul>
+<li>Built custom buttons using a reusable MyButton component</li>
+<li>Organized the project inside an app folder for better scalability</li>
+<li>Used ImageBackground and require() to add full-screen background images</li>
+<li>Applied consistent styling and layout with StyleSheet, SafeAreaView, flex, etc.</li>
+<li>Learned how to use jsconfig.json with baseUrl for absolute imports</li>
+<li>Identified system fonts commonly used for iOS (San Francisco) and Android (Roboto)</li>
+</ul>
+
+**Challenges:**
+
+<ul>
+<li>Encountered permission and file caching errors when installing dependencies with npm</li>
+<li>Faced issues resolving image paths correctly when using relative imports</li>
+<li>Simulator didn’t adjust layout properly on device rotation — will explore responsive fixes later</li>
+</ul>
+
+The gold code lol:
+<code>npx create-expo-app@latest app-name --template blank</code>
+
+In all I have learnt something and can't wait to learn more as time goes on.
+
+**Goals:**
+
+<ul>
+<li>Continue with the React Native course and add more screens to my app</li>
+
+<li>Make the layout responsive to orientation changes</li>
+
+<li>Add navigation and start exploring local state for saving states</li>
+
+</ul>
