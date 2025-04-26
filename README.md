@@ -553,3 +553,33 @@ In all I have learnt something and can't wait to learn more as time goes on.
 <li>Add navigation and start exploring local state for saving states</li>
 
 </ul>
+
+# Day 18 of 100 — April 26, 2025
+
+Today I dived into swipe gestures in React Native. Switched from react-native-gesture-handler + reanimated to react-native-swipe-list-view for simpler swipe-to-delete functionality. I also fixed setup issues with NativeWind (babel, nativewind-env.d.ts) to get Tailwind classes working in my project as well as troubleshooted tricky Reanimated errors and learned about handling shared values properly.
+
+**Learning Points:**
+
+<ul>
+<li>Sometimes libraries update massively (especially in mobile dev) — always double-check docs if a tutorial seems off.</li>
+
+<li>react-native-reanimated needs careful handling with shared values and animations (can't read .value during render).</li>
+
+<li>NativeWind is a powerful way to bring Tailwind-style utility classes to React Native, but setup matters a lot.</li>
+</ul>
+
+**Challenges:**
+
+<ul>
+<li>Lost a lot of time fighting gesture-handler bugs and Reanimated errors — definitely a humbling day.</li>
+
+<li>Adapting to a newer swipe gesture approach when the course material was outdated.</li>
+</ul>
+
+**Goals:**
+
+<ol>
+<li>Clean up swipe-to-delete UI and make it more polished.</li>
+
+<li>Start working on a new small feature using NativeWind (maybe redesign the list items?).</li>
+</ol>
