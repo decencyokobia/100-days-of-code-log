@@ -583,3 +583,27 @@ Today I dived into swipe gestures in React Native. Switched from react-native-ge
 
 <li>Start working on a new small feature using NativeWind (maybe redesign the list items?).</li>
 </ol>
+
+# Day 19 of 100 — April 27, 2025
+
+Today I mapped out a full project structure for building scalable mobile apps with Expo Router + NativeWind + TypeScript, deepened my understanding of navigation using \_layout.tsx for stacks and tabs, learned how to structure folders for real-world mobile apps and focused on mastering the build → error → fix cycle for faster learning.
+
+**Learning Points:**
+
+<ul>
+<li>Finally got clarity on React Native app architecture.</li>
+</ul>
+
+**Reflection:**
+
+<ul>
+<li>Today was less about coding and more about building my foundation properly.</li>
+
+<li>Learning isn't just typing — thinking and organizing properly saves time later.</li>
+
+<li>I’m becoming more independent and confident with React Native.</li>
+</ul>
+
+**Goals:**
+
+My goal is to master building components efficiently and apply them to my projects during my off-duty hours, as I begin my working week tomorrow.
