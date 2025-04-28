@@ -607,3 +607,21 @@ Today I mapped out a full project structure for building scalable mobile apps wi
 **Goals:**
 
 My goal is to master building components efficiently and apply them to my projects during my off-duty hours, as I begin my working week tomorrow.
+
+# Day 20 of 100 — April 28, 2025
+
+Today I focused on building a custom Button component for my React Native app. I realized my earlier setup was a bit messy, so I took the time to restructure the entire project to properly support routing in the future.
+
+**Learning Points:**
+
+Finally understood how components behave and how to pass props to make them reusable.
+
+Successfully built Button, Logo, and Tagline components — setting a strong foundation for piecing screens together later.
+
+**Challenges:**
+
+Still not fully confident with routing, but I'm trusting the process and aiming to figure it out as the week progresses.
+
+**Goals:**
+
+Focus next on building a reusable TextInput component to prepare for creating Login and Register screens.
