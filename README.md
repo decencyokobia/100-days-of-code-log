@@ -661,3 +661,19 @@ It’s kind of wild — even after building several solo projects from scratch (
 
 <li>Hopefully, five years from now, I’ll read this log and feel proud — doing it for the love of the game.</li>
 </ol>
+
+# Day 22 of 100 — April 30, 2025.
+
+Today, I integrated React Router into my app to enable navigation across the different screens I plan to build. It’s a small but essential step forward. That said, I’m feeling really tired tonight and will rest up to come back stronger tomorrow.
+
+**Learning Points:**
+
+Implemented react-router-dom to manage navigation between routes in a React app.
+
+**Challenges:**
+
+Struggled with focus and felt mentally drained today. It was hard to get into the flow.
+
+**Goals:**
+
+Continue building out key components for the app.
