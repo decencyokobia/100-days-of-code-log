@@ -625,3 +625,39 @@ Still not fully confident with routing, but I'm trusting the process and aiming 
 **Goals:**
 
 Focus next on building a reusable TextInput component to prepare for creating Login and Register screens.
+
+# Day 21 of 100 — April 29, 2025 (Written in retrospect)
+
+Yesterday was intense at work — my patients kept me busy, and I think my in-charge is really fond of assigning me the heaviest cases. I had planned to log this entry yesterday, but the day’s demands got in the way. On top of that, I found myself wrestling with mixed feelings about transitioning into mobile development using React Native.
+
+After taking some time to reflect and do more research, I’ve come to a decision that feels right: as a solo developer, focusing on web development is more practical for now. Mobile development can always come later, especially if one of my future projects demands it. The app I initially planned to build in React Native will now be built in React. This will allow me to reinforce my learning and stick with what I already have momentum in.
+
+It’s kind of wild — even after building several solo projects from scratch (not copying code or Googling every line), I found myself forgetting some basics. Just trying to build a simple button component, I mixed up the syntax between React and React Native. That experience reminded me that even with consistent practice, forgetting is part of the journey.
+
+**Learning Points:**
+
+<ol>
+<li>I gained clarity on my current needs as a solo developer.</li>
+
+<li>Web development is still the best fit for my current goals — responsive design covers a lot of ground.</li>
+
+<li>Forgetting concepts is normal; revisiting and relearning is where deeper understanding comes in.</li>
+</ol>
+
+**Challenges:**
+
+<ol>
+<li>Time management. Juggling ICU shifts and trying to code daily isn’t easy.</li>e
+
+<li>I get frustrated when I can’t recall something, especially after putting in so much work. But I’m learning to accept that I’m human — and that revisiting forgotten concepts is a valuable part of growth.</li>
+</ol>
+
+**Goals:**
+
+<ol>
+<li>Continue building reusable components for my current project.</li>
+
+<li>Stay consistent and keep showing up, even on tough days.</li>
+
+<li>Hopefully, five years from now, I’ll read this log and feel proud — doing it for the love of the game.</li>
+</ol>
