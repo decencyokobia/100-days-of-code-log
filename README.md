@@ -677,3 +677,25 @@ Struggled with focus and felt mentally drained today. It was hard to get into th
 **Goals:**
 
 Continue building out key components for the app.
+
+# Day 23 of 100 — MAy 01, 2025.
+
+Today I made solid progress integrating routing and splash functionality into my app. I added a splash screen that shows the logo for a few seconds using setTimeout, before routing to the welcome screen — it adds a nice touch on load. I also completed the log form using react-hook-form to manage input state, validation, and submission logic.
+
+Since the form allows uploading photos, I figured out how to handle FileList properly and display uploaded images — big thanks to ChatGPT for guiding me, but I also made sure I understood why the solution works.
+
+**Learning Points:**
+
+<ul>
+<li>Handling uploaded files using FileList and converting them for rendering.</li>
+
+<li>Solidified my understanding of react-hook-form for building accessible, well-managed forms.</li>
+</ul>
+
+**Challenges:**
+
+Tried learning useContext to share state across screens. Found it tricky at first since I’ve never used it before — will dedicate time on my days off to dive deeper into it.
+
+**Goals:**
+
+I'm really proud of how this app is shaping up. I’ve already got two people waiting to try it! My plan is to keep building out components now, so that on my days off I can focus on UI polish and final integration. I’ll be drawing inspiration from Dribbble to give it a clean, professional finish.
