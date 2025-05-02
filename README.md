@@ -678,7 +678,7 @@ Struggled with focus and felt mentally drained today. It was hard to get into th
 
 Continue building out key components for the app.
 
-# Day 23 of 100 — MAy 01, 2025.
+# Day 23 of 100 — May 01, 2025.
 
 Today I made solid progress integrating routing and splash functionality into my app. I added a splash screen that shows the logo for a few seconds using setTimeout, before routing to the welcome screen — it adds a nice touch on load. I also completed the log form using react-hook-form to manage input state, validation, and submission logic.
 
@@ -699,3 +699,30 @@ Tried learning useContext to share state across screens. Found it tricky at firs
 **Goals:**
 
 I'm really proud of how this app is shaping up. I’ve already got two people waiting to try it! My plan is to keep building out components now, so that on my days off I can focus on UI polish and final integration. I’ll be drawing inspiration from Dribbble to give it a clean, professional finish.
+
+# Day 24 of 100 — May 02, 2025.
+
+Today I built the second screen of my app, which features card containers to display data. I implemented and styled these using CSS Modules, keeping the styling scoped and maintainable.
+
+**Learning Points:**
+
+<ul>
+
+<li>Learned how to structure and style components using CSS Modules.</li>
+
+<li>Improved my understanding of component layout with cards.</li>
+</ul>
+
+**Challenges:**
+
+Deciding on a clean and responsive layout for the card design took some trial and error.
+
+**Goals:**
+
+<ol>
+<li>Continue building out the app screens and components.</li>
+
+<li>Begin integrating saved memory data into the card display.</li>
+
+<li>Maintain consistent styling throughout using CSS Modules.</li>
+</ol>
