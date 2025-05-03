@@ -726,3 +726,43 @@ Deciding on a clean and responsive layout for the card design took some trial an
 
 <li>Maintain consistent styling throughout using CSS Modules.</li>
 </ol>
+
+# Day 25 of 100 — May 03, 2025.
+
+Today, I finally made the switch to Next.js after struggling with routing in React. I realized Next.js not only simplifies routing but also strengthens my overall React skillset, so I’m glad I didn’t delay any further.
+
+**Learning Points:**
+
+<ol>
+<li>How to create a new Next.js project using npx</li>
+
+<li>Updated my Node.js version to improve compatibility</li>
+
+<li>Practiced creating file structures both during a course and for my own project</li>
+
+<li>Learned file-based routing and dynamic routing in Next.js</li>
+
+<li>Implemented an (auth) folder for registration, login, and password reset pages — even though I may not use it immediately, it’s good groundwork for user experience in the future</li>
+</ol>
+
+**Challenges:**
+
+<ol>
+<li>Spent quite some time searching for a comprehensive Next.js 15 course with TypeScript</li>
+
+<li>Didn’t want to spend on another subscription, but eventually found a solid free course that fits my learning goals</li>
+</ol>
+
+**Goals:**
+
+<ol>
+<li>Continue learning Next.js while building out my app step-by-step</li>
+
+<li>Start working with Tailwind CSS, which I noticed was part of the initial Next.js setup</li>
+
+<li>Explore how styling works in Next.js — I assume plain CSS still works since it’s based on React, but I’m excited to try Tailwind properly</li>
+<ol>
+
+# Side Note:
+
+I haven’t shared this before, but I’ve started building a personal project called MemoireeApp — an app that lets users log important memories or events with a title, date, description, and photos. I already purchased the domain memoireeapp.com and will be documenting the build in real-time through this challenge!
