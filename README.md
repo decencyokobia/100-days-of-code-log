@@ -766,3 +766,33 @@ Today, I finally made the switch to Next.js after struggling with routing in Rea
 # Side Note:
 
 I haven’t shared this before, but I’ve started building a personal project called MemoireeApp — an app that lets users log important memories or events with a title, date, description, and photos. I already purchased the domain memoireeapp.com and will be documenting the build in real-time through this challenge!
+
+# Day 26 of 100 — May 04, 2025.
+
+Today, I added a welcoming greeting, a short description of what MemoireeApp is about, and two call-to-action buttons: one to add a memory and another to view history. I also set up the routing links to these pages.
+
+**Learning Points:**
+
+<ul>
+<li>Discovered how to use CSS Modules for styling individual pages.</li>
+
+<li>Learned how to use the Link component from next/link to navigate between pages with my CTA buttons.</li>
+</ul>
+
+**Challenges:**
+
+<ul>
+<li>Still figuring out how to manage global styles effectively using globals.css, especially since I’m not using Tailwind CSS yet.</li>
+
+<li>I didn’t dive deep into this due to limited time, but since tonight was my last shift of the week, I’ll have more time to research tomorrow.</li>
+</ul>
+  
+**Goals:**
+
+<ul>
+<li>Continue exploring Next.js and start learning Tailwind CSS to improve styling flexibility.</li>
+
+<li>Understand how styling works more broadly in a Next.js project.</li>
+
+<li>Begin implementing the 8-8-8 rule to create a better balance between coding, rest, and other life commitments.</li>
+</ul>
