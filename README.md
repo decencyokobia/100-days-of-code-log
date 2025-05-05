@@ -796,3 +796,52 @@ Today, I added a welcoming greeting, a short description of what MemoireeApp is 
 
 <li>Begin implementing the 8-8-8 rule to create a better balance between coding, rest, and other life commitments.</li>
 </ul>
+
+# Day 27 of 100 — May 05, 2025.
+
+Today, after catching up on sleep post-night shift, I finally made my beloved African soup — something I’ve missed for months. Ate well, then jumped back into the grind.
+
+<ul>
+I focused on MemoireeApp and made solid progress:
+
+<li>✅ Completed the Home, Event Log, and History screens.</li>
+
+<li>🧪 Worked on persisting form data from the Event Log screen to display it properly on the History screen.</li>
+
+<li>For now, I’m storing data in localStorage, since I haven’t learned how to set up databases yet.</li>
+</ul>
+
+**Learning Points:**
+
+<ul>
+<li>Learned how to handle photo uploads using FileList in TypeScript. I had to define two different types of props: one for submitting the form and another for storing data. This concept finally clicked after seeing it in action.</li>
+
+<li>I now know how to install and use Tailwind CSS in a Next.js project (read the docs during a night shift!).</li>
+
+<li>I’m combining Tailwind and CSS Modules for styling — using the strengths of both.</li>
+
+<li>Learned how to make project-wide changes via the layout.tsx file. For example, applying a background to all pages or importing globals.css for Tailwind setup.</li>
+</ul>
+
+**Challenges:**
+
+<ul>
+<li>Took a while to figure out how to display photo data on the History screen, but with some searching and testing, I cracked it.</li>
+
+<li>One bug left: the logic I’m using only retains images on the current screen. When I navigate away, they don’t persist. I’ll debug this tomorrow.</li>
+</ul>
+
+**Goals:**
+
+<ol>
+<li>Keep building MemoireeApp step-by-step.</li>
+
+<li>Dedicate time to my Next.js course. I have a habit of jumping straight into building once I learn the basics — which is great — but it slows down my progress with the actual tutorial. I want to finish it to catch all the little gems I might miss. The docs help too, but structured learning still matters.</li>
+</ol>
+
+Below is the screen record:
+
+<video controls>
+  <source src='videos/MemoireeApp.mp4' type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
