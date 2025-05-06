@@ -72,7 +72,6 @@ Today I focused on improving the UX/UI of my weather app. I implemented local st
 A big highlight was learning how to fetch temperature values directly in Celsius using API parameters, which saved me from doing manual math conversions. I also got deeper into error handling, learned to interpret console responses more effectively, and implemented a custom alert system.
 
 <img src='./images/darkMode.webp' alt='sreenshot of my weather app on dark mode'>
-<a href='https://decencyokobia.github.io/weather-app/' title='my weather app link for live demo'>Access my weather app here</a>
 
 **Challenges:**
 
@@ -259,15 +258,7 @@ To be honest, it’s been tough keeping up—yesterday was incredibly hectic. I 
 <ul>
 <li>While I got the SVG icons working locally, they didn’t load after deployment on my phone.</li>
 
-<video controls muted>
-<source src="/videos/svg-icons.mp4" type="video/mp4" >
-</video>
-
 <li>I didn’t have time to debug due to work, so I temporarily switched to WeatherAPI’s icons to make sure the app stayed functional.</li>
-
-<video controls muted>
-<source src="/videos/openweather-icon.mp4" type="video/mp4" >
-</video>
 
 <li>Will investigate further during my commute or when I get a moment to breathe.</li>
 </ul>
@@ -839,9 +830,37 @@ I focused on MemoireeApp and made solid progress:
 <li>Dedicate time to my Next.js course. I have a habit of jumping straight into building once I learn the basics — which is great — but it slows down my progress with the actual tutorial. I want to finish it to catch all the little gems I might miss. The docs help too, but structured learning still matters.</li>
 </ol>
 
-Below is the screen record:
+Below is the screenshot:
 
-<video controls>
-  <source src='videos/MemoireeApp.mp4' type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
+<img src='images/memoireeapp screenshot.webp' alt='screenshot of my weather app 2'>
+
+# Day 28 of 100 — May 06, 2025.
+
+Today, I officially launched memoireeapp, and I’m so glad I was able to do it! This project has been a huge learning experience, and I'm still learning as I go. I decided to release the app early so that users can test it and share their feedback—which I’ll use to improve it further.
+
+I've already shared it with a few friends, and if you're reading this, feel free to try it out <a href='https://www.memoireeapp.com/' title='memoireeapp website'>here</a>. You can send any feedback to my <a href='mailto:deelovestocode@gmail.com'> email</a> — I'd really appreciate it!
+
+**Learning Points:**
+
+<ul>
+<li>Learned how to structure and customize a 404 page.</li>
+<li>Deployed my project to Vercel and successfully connected it to a custom domain. I got the domain specifically to learn how to link real projects for a better user experience.</li>
+</ul>
+
+**Challenges:**
+
+<ul>
+<li>There are still some bugs to fix — especially with image handling.</li>
+
+<li>I wanted to add placeholders for uploaded images but haven’t been able to implement that yet.</li>
+
+<li>I'm hoping that as I complete my Next.js course, I’ll be able to resolve these issues.</li>
+</ul>
+
+**Goals:**
+
+<ol>
+<li>Keep refining the app based on user feedback.</li>
+
+<li>Continue learning and applying new skills from the Next.js course.</li>
+</ol>
