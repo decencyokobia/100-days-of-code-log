@@ -864,3 +864,37 @@ I've already shared it with a few friends, and if you're reading this, feel free
 
 <li>Continue learning and applying new skills from the Next.js course.</li>
 </ol>
+
+# Day 29 of 100 — May 07, 2025.
+
+Today was frustrating.
+
+I struggled with integrating a database into my app to persist images. I'm currently relying on localStorage, which is proving to be a big limitation—especially when dealing with blob URLs. Things just broke down. I tried using Supabase (no luck), gave IndexedDB a shot (also failed), and now I’m back to square one with localStorage.
+
+The whole point of the app is to let users save memories, so if that doesn’t work, the mission is off-track.
+
+**Learning Points:**
+
+<ul>
+<li>I’ve come face-to-face with how little I know about backend development.</li>
+
+<li>Spent over 5 hours trying to fix this, didn’t even get a chance to shower before writing this.</li>
+
+<li>UI tweaks went a little better—still not perfect, but at least it’s visually decent.</li>
+</ul>
+
+**Challenges:**
+
+<ul>
+<li>Backend/database integration failed miserably.</li>
+
+<li>Tried implementing login, signup, and forgot password flows. Got halfway through before things broke. All components are in my auth group file, but the logic isn't holding up.</li>
+</ul>
+
+**Goals:**
+
+<ol>
+<li>Returning to my Next.js course to properly learn backend integration.</li>
+
+<li>Only got 4 reviews on the app so far, but I’m not letting that stop me. One step at a time—we keep going, no matter what.</li>
+</ol>
