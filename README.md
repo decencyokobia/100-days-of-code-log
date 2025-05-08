@@ -898,3 +898,46 @@ The whole point of the app is to let users save memories, so if that doesn’t w
 
 <li>Only got 4 reviews on the app so far, but I’m not letting that stop me. One step at a time—we keep going, no matter what.</li>
 </ol>
+
+# Day 30 of 100 — May 08, 2025.
+
+Today I completed Supabase integration in my app, enabling reliable storage of user data. It’s still an MVP, so I’m actively squashing bugs and preparing to incorporate user feedback as it comes in.
+
+**Learning Points:**
+
+<ol>
+<li>Supabase Integration Deep Dive</li>
+<ul>
+<li>Learned how Supabase stores and retrieves rows in a “memories” table, and practiced writing .select(), .insert(), and .update() calls.</li>
+
+<li>Discovered how to handle Supabase’s single‑row response shape (.single()) and error object.</li>
+</ul>
+<li>UUID Validation</li>
+<ul>
+<li>Implemented a UUID‑v4 regex to validate keys before using them.</li>
+
+<li>Learned to surface validation errors in React state rather than letting the app crash.</li>
+</ul>
+<li>Component State & UX</li>
+<ul>
+<li>Added an error state to my KeyManager component to show inline feedback.</li>
+
+<li>Refreshed on best practices for useEffect to run once on mount and safely interact with localStorage.</li>
+</ul>
+</ol>
+
+**Challenges:**
+
+<ul>
+<li>Silent Failures: Initially, invalid keys would silently persist in localStorage, leading to a broken UI state. Tracing that took longer than expected.</li>
+
+<li>Regex Details: Crafting the correct UUID‑v4 regex took a couple of iterations to accept all valid variants (especially the version and variant bits).</li>
+
+<li>User Flow: Ensuring that the error message clears appropriately when the user corrects their input without introducing flicker or stale state.</li>
+</ul>
+
+**Goals:**
+
+My goal remains unchanged: I’ll return to my Next.js course and finish it end‑to‑end. Although I’ve been deeply focused on launching the app and picking up new skills on the fly, following the course curriculum will give me the structure I need — and likely spark new ideas I can integrate into Memoireeapp.
+
+One step at a time—onward to Day 31! 🚀
