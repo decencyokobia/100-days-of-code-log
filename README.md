@@ -941,3 +941,54 @@ Today I completed Supabase integration in my app, enabling reliable storage of u
 My goal remains unchanged: I’ll return to my Next.js course and finish it end‑to‑end. Although I’ve been deeply focused on launching the app and picking up new skills on the fly, following the course curriculum will give me the structure I need — and likely spark new ideas I can integrate into Memoireeapp.
 
 One step at a time—onward to Day 31! 🚀
+
+# Day 31 of 100 — May 09, 2025.
+
+Today I didn't do much other than go through my nextJS course where I spent most of my time working through my Next.js course and uncovering some useful new techniques. Overall, Next.js continues to impress me with how it streamlines so many aspects of React development — but it still demands a solid grasp of JavaScript fundamentals (like function manipulation and object destructuring). Even so, its conventions and built-in file routing make it a pleasure to work with.
+
+For Memoireeapp, I’ve shared the link in a few friend groups and received polite 👍 reactions, but very little hands-on feedback. So far, only four others (plus me) have actually tried it. I’m not sure whether it’s a visibility issue or just early-stage hesitation, but I’d love more real-user input.
+
+On a brighter note, I dove into SEO best practices today:
+
+<ul>
+<li>Configured metadata in my Next.js layout</li>
+
+<li>Generated and submitted a sitemap.xml</li>
+
+<li>Ran Lighthouse audits and scored 100% in Performance, Accessibility, Best Practices, and SEO</li>
+</ul>
+My site is now indexed, and the sitemap is live—two big milestones!
+
+**Learning Points:**
+
+<ul>
+<li><b>Next.js Metadata API:</b> How to define titles, descriptions, Open Graph and Twitter metadata.</li>
+
+<li><b>Error & Loading States:</b> The special loading.tsx, error.tsx, and not-found.tsx files that improve user experience.</li>
+
+<li><b>SEO Auditing:</b> Using Lighthouse to measure and optimize site health.</li>
+</ul>
+
+**Reflection:**
+
+Learning alone has its perks — my AI “rubber duck” helps me think through problems — but I miss the energy of human feedback. Platforms like Indie Hackers seem promising for honest reviews; I’ll explore posting there next. It’s been almost six months since I started coding on my own, and I’ve already built projects in vanilla JS, React, and now a full-stack Next.js app. Progress feels real, and I’m excited for what’s next.
+
+**Challenges:**
+
+<ul>
+<li>Feeling a bit discouraged by low engagement and feedback.</li>
+
+<li>Wondering if I need better promotion or a different onboarding flow to get more users to actually try the app.</li>
+</ul>
+
+**Goals:**
+
+<ul>
+<li>Post Memoireeapp on Indie Hackers and solicit constructive feedback.</li>
+
+<li>Review my learning roadmap—identify any gaps in backend knowledge (Node.js, database integration).</li>
+
+<li>Continue deepening my understanding of Next.js best practices (API routes, middleware).</li>
+</ul>
+
+I’m proud of how far I’ve come in six months. Building something from nothing in just a week still amazes me—proof that with consistent effort, I really am unstoppable.
