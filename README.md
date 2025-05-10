@@ -992,3 +992,35 @@ Learning alone has its perks — my AI “rubber duck” helps me think through 
 </ul>
 
 I’m proud of how far I’ve come in six months. Building something from nothing in just a week still amazes me—proof that with consistent effort, I really am unstoppable.
+
+# Day 31 of 100 — May 09, 2025.
+
+Today wasn’t the most productive technically, but it was still meaningful.
+
+I felt quite drained from the week and ended up spending most of the day watching YouTube videos and reading about SEO and marketing strategies. I’m not looking to monetize MemoireeApp yet — I genuinely want people to enjoy using it first. It’s simple now, but I’m planning features like AI-generated memory summaries and secure memory sharing (via temporary keys you can disable at will).
+
+I also discovered Product Hunt and plan to launch MemoireeApp there tomorrow. I’m excited (and nervous!) to get feedback — good or bad, anything that helps me improve the user experience is welcome. I also shared a post about it on Indie Hackers.
+
+Today I added a logout button to help protect user privacy each time they log a memory — small detail, big difference.
+
+**Learning Points:**
+
+<ul>
+<li>SEO basics and app marketing strategy</li>
+
+<li>How to make clean product mockups using tools like Media Modifier</li>
+</ul>
+
+**Challenges:**
+
+Still need to create a clear onboarding video to show how to use MemoireeApp and how to add it to the home screen as a PWA. Even simple apps benefit from visual guidance.
+
+**Goals:**
+
+<ul>
+<li>Watch a lesson or two from my Next.js course</li>
+
+<li>Create an onboarding video and share it on social + Product Hunt</li>
+
+<li>Start collecting testimonials to build social proof on the landing page</li>
+</ul>
