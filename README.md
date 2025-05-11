@@ -993,7 +993,7 @@ Learning alone has its perks — my AI “rubber duck” helps me think through 
 
 I’m proud of how far I’ve come in six months. Building something from nothing in just a week still amazes me—proof that with consistent effort, I really am unstoppable.
 
-# Day 32 of 100 — May 09, 2025.
+# Day 32 of 100 — May 10, 2025.
 
 Today wasn’t the most productive technically, but it was still meaningful.
 
@@ -1024,3 +1024,39 @@ Still need to create a clear onboarding video to show how to use MemoireeApp and
 
 <li>Start collecting testimonials to build social proof on the landing page</li>
 </ul>
+
+# Day 33 of 100 — May 11, 2025.
+
+Hey everyone! Today was a rollercoaster—exciting, nerve-racking, and surprisingly insightful. It was launch day for MemoireeApp on Product Hunt!
+
+Going in, I had no clue what I was doing. I assumed a launch meant automatic exposure, but I quickly learned you have to actively campaign, share your launch, invite people to support it, and engage with the Product Hunt community. Despite that steep learning curve, I managed to land at #22 for the day and #363 for the week at the time of writing this. Not bad at all for a solo dev with zero launch experience—just vibes, Google, and asking questions online.
+
+<img src="images/product-hunt1.webp" alt="product launch screenshot 1">
+
+What really warmed my heart was that most users gave the app 5-star reviews, noting that MemoireeApp is clean, simple, and solves a real pain point. That validation means the world to me.
+
+<img src="images/product-hunt2.webp" alt="product launch screenshot 2">
+
+**Learning Points:**
+
+<ul>
+
+<li>From user reviews, I got inspired to add a reminder notification: if a user hasn't logged a memory in 5 days, the app gently nudges them to do so. It’s a small but meaningful way to boost engagement.</li>
+
+<li>Many other makers are diving deep into AI products. It’s inspiring — and MemoireeApp will grow into that space too, with features like AI-generated memory summaries and weekly memory compilations. These will likely become premium features down the line.</li>
+
+<li>I didn’t do much coding today — most of my time was spent on the business and marketing side, figuring out how launches work, how to talk about your product, and how to ask for support without being spammy. Definitely a new skill set.</li>
+
+</ul>
+
+**Challenges:**
+
+<ul>
+<li>It was hard getting people to support the launch—I totally understand everyone’s busy, so no hard feelings at all. I'm deeply grateful for those who showed up. A couple of developers I didn’t even know gave MemoireeApp an upvote and kind feedback. That meant a lot.</li>
+
+<li>Honestly, I just needed one person to confirm that this app is solving a real problem, and I got that today.</li>
+</ul>
+
+**Goals:**
+
+Night shifts kick off tomorrow, so I’ll be back to squeezing in short bursts of code. Whether it's 1 hour, 30 minutes, or even 2 minutes, I’ll keep showing up. Progress is progress.
