@@ -1060,3 +1060,31 @@ What really warmed my heart was that most users gave the app 5-star reviews, not
 **Goals:**
 
 Night shifts kick off tomorrow, so I’ll be back to squeezing in short bursts of code. Whether it's 1 hour, 30 minutes, or even 2 minutes, I’ll keep showing up. Progress is progress.
+
+# Day 34 of 100 — May 12, 2025.
+
+Hey everyone! Greetings from surprisingly sunny Scotland—yes, you read that right! 🌞 Tonight I begin my first night shift in critical care, which feels worlds away from a week of coding and software work. I’m excited (and a little nervous) to learn on the job, but I’ll still carve out time to deepen my Next.js and Supabase skills and keep iterating on MemoireeApp.
+
+Today I made a key tweak: the home page is now publicly visible, so visitors can explore testimonials and kick the tires without needing a secret key. As an introvert, marketing feels like jumping off a cliff—posting on Indie Hackers and Product Hunt is well outside my comfort zone—but I’ve discovered that embracing the discomfort is exactly how you grow.
+
+**Learning Points:**
+
+<ul>
+<li><b>Founders’ journeys aren’t always overnight success stories</b>. Many ship dozens of apps before hitting on one that resonates. Their persistence is inspiring and reminds me to stay the course.</li>
+
+<li><b>You don’t need a CS degree to build full-stack apps</b>. With YouTube tutorials and online courses, I’ve built MemoireeApp end-to-end using Next.js for the front end and Supabase for the backend.</li>
+
+<li><b>Balancing multiple roles works with focus</b>. Between two-week nursing rotations, a master’s program, family commitments, and this side hustle, I’ve finished critical-care coursework and several master’s modules in just six months.</li>
+</ul>
+
+**Challenges:**
+
+<b>Time management and sleep deprivation are my biggest hurdles.</b><br/> I tried an 8-8-8 schedule, but passion pulls me back to the keyboard. Still, I’m proud I made time for a family outing to the park today—moments like that recharge me.
+
+**Goals:**
+
+<ul>
+<li>Keep small, consistent wins: 30-minute coding sprints, quick concept reviews, and incremental feature ship-ments.</li>
+
+<li>Apply each new lesson immediately—whether it’s a Supabase policy tweak or a Next.js routing trick—to reinforce my learning.</li>
+</ul>
