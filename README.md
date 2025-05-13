@@ -1088,3 +1088,33 @@ Today I made a key tweak: the home page is now publicly visible, so visitors can
 
 <li>Apply each new lesson immediately—whether it’s a Supabase policy tweak or a Next.js routing trick—to reinforce my learning.</li>
 </ul>
+
+# Day 35 of 100 — May 13, 2025.
+
+Today on my way to work, I started drafting more guidance around keeping the secret key safe. Since MemoireeApp is all about privacy-first journaling, I want to avoid the friction of usernames and passwords—just open the app and start logging memories. Simple.
+
+One idea I’m considering is letting users generate a QR code of their secret key to download and store safely on their device. It’s convenient—but risky if someone else gets access, since it could expose their private vault. So I’ll need to balance usability with security carefully.
+
+I also spent some time reading up on marketing ideas and brainstorming features for the premium release—like AI summaries, QR-based sharing, or custom memory vaults.
+
+**Learning Points:**
+
+<ul>
+<li>Not learnt much but hopefully during my second break, I will be about to Didn’t do much hands-on coding, but I’m hoping to review a bit of Next.js during my second break.</li>
+
+<li>My brain’s kind of locked in on MemoireeApp—how to improve it, market it, and make it useful for real users. </li>
+</ul>
+
+**Challenges:**
+
+<ul>
+<li>Figuring out marketing strategies that actually get people to try MemoireeApp.</li>
+
+<li>Focusing on my Next.js learning with everything else going on.</li>
+
+<li>Managing stress from work shifts and balancing rest.</li>
+</ul>
+
+**Goals:**
+
+No changes from yesterday—I’m still holding myself accountable for daily progress, even if it’s small.
