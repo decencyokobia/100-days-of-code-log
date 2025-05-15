@@ -1118,3 +1118,51 @@ I also spent some time reading up on marketing ideas and brainstorming features 
 **Goals:**
 
 No changes from yesterday—I’m still holding myself accountable for daily progress, even if it’s small.
+
+# Day 36 of 100 — May 14, 2025.
+
+During my second break at work, I managed to integrate Google Analytics into MemoireeApp to help me track real usage. To my surprise, it showed around 14 new users — which is honestly amazing for something I've launched solo with minimal reach. 🎉
+
+Right now, I’m holding off on building new features. I want to focus on collecting feedback and understanding what users genuinely need before adding anything new.
+
+**Learning Points:**
+
+<ul>
+<li>Installed and configured Google Analytics successfully.</li>
+
+<li>Began mapping out a study schedule to balance learning and my ongoing master’s program without burning out.</li>
+</ul>
+
+**Challenges:**
+
+<ul>
+<li>Managing time effectively, especially during night shifts and busy ICU days.</li>
+
+<li>Handling work stress while trying to stay productive and creative with MemoireeApp.</li>
+</ul>
+
+**Goals:**
+
+<ul>
+<li>Stick to my planned routine and avoid unnecessary feature creep.</li>
+
+<li>Keep pushing MemoireeApp forward — slowly, intentionally, and based on real user insights.</li>
+
+<li>Strengthen my fundamentals in Supabase. I'm still a bit uneasy about managing sensitive user data as a solo dev, but I’m aware that scaling a SaaS product responsibly will require a reliable and secure backend.</li>
+</ul>
+
+# Day 37 of 100 — May 15, 2025.
+
+Today I have been able to implement a rule that allows freemium users to only upload 3 memories and then this will trigger a lert that will prompt them to go for a solo or premium plan. This will guide me in knowing the next plan for memoireeapp.
+
+**Learning Points:**
+
+Not much but will update tomorrow as per what I was able to do during my break.
+
+**Challenges:**
+
+None at the moment
+
+**Goals:**
+
+Continue to refine my ideas and study as usual.
