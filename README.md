@@ -1161,7 +1161,7 @@ Not much but will update tomorrow as per what I was able to do during my break.
 
 **Challenges:**
 
-None at the moment
+None at the moment but time management still an issue.
 
 **Goals:**
 
