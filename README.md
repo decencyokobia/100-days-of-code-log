@@ -1166,3 +1166,43 @@ None at the moment but time management still an issue.
 **Goals:**
 
 Continue to refine my ideas and study as usual.
+
+# Day 38 of 100 — May 16, 2025.
+
+Today, I focused on exploring ways to get my app out into the world for validation and potentially convert testers into active users. I also took a major step by purchasing a domain — builtbydecency — which will serve as my personal brand hub. It will bring together all my projects, blog posts, contact information, and anything else I dream up. I plan to build it using Next.js for a modern feel and improved SEO.
+
+**Learning Points:**
+
+I spent time revisiting some marketing basics and refreshing my understanding of the Next.js documentation. Watching a one-hour tutorial video isn’t quite enough to grasp it deeply. Even though I’ve built memoireeapp using this framework (mostly by Googling solutions as I went), I now want to understand the why behind it — not just how to make it work. Next.js is a powerful tool, and I’m committed to mastering it properly.
+
+**Challenges:**
+
+Time management continues to be tricky — balancing work, study, and coding isn’t easy. I tried to make use of any quiet moments at work to revise a few Next.js concepts. Though my learning may feel a bit fragmented right now, I don’t want to let a day go by without making some kind of progress, even if it’s just a line of code or a single insight. It's the habit that counts.
+
+**Goals:**
+
+I plan to create a simple to-do list to help me prioritize tasks during my upcoming week off. I want to make sure I don’t get carried away just coding and end up neglecting other important things like my MSc research proposal and logbook. Finishing my MSc in Advanced Practice would be a huge achievement — and who knows? It might be something I’ll lean on heavily in the future.
+
+# Day 39 of 100 — May 17, 2025.
+
+Today, I managed to squeeze in a bit of coding, mainly focused on improving the offline capabilities of my PWA for a smoother user experience when there's no internet connection. It’s been a bit tricky to implement since user data is stored in the cloud, and accessing it offline would require syncing to localStorage or cookies — something I’m still exploring.
+
+I also made progress on my new personal website, builtbydecency, which I'm building with Next.js. It will serve as a central hub for all my projects and will include a blog where I’ll write about tech, product ideas, and other topics I find interesting. On the memoireeapp side, I added some AOS (Animate On Scroll) effects to enhance the user interface and make the app feel more polished.
+
+**Learning Points:**
+
+Today’s key takeaway was integrating AOS with Next.js using useEffect. I had previously used AOS in basic HTML projects and liked the visual flow it gave, so I decided to bring that same smooth experience into memoireeapp. It’s all about those small touches that make the product feel more alive.
+
+**Challenges:**
+
+Time management continues to be a challenge. I’m writing this log during my second break on my 6th consecutive night shift, at 01:36 AM on a Sunday. It’s been tough, but I’m pushing through. Also, my PWA still isn’t working offline as intended — but I’m not giving up. I’ll keep digging until it does.
+
+**Goals:**
+
+My current goals are to:
+
+<ol>
+<li>Do more research into marketing strategies so I can position memoireeapp more effectively.</li>
+
+<li>Stick closely to my to-do list to ensure I’m progressing across all fronts — not just with code, but also with my MSc work and personal milestones.</li>
+</ol>
