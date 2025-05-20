@@ -1205,4 +1205,76 @@ My current goals are to:
 <li>Do more research into marketing strategies so I can position memoireeapp more effectively.</li>
 
 <li>Stick closely to my to-do list to ensure I’m progressing across all fronts — not just with code, but also with my MSc work and personal milestones.</li>
-</ol>
+</o>
+
+# Day 40 of 100 — May 18, 2025.
+
+Another night shift, and honestly, I was operating in survival mode today. Didn't have much energy, but I did manage to push a few small visual improvements to the homepage — mainly tweaking image placements and alignment to make it feel a bit more cohesive. Most of the day was a blur, with breaks squeezed in between duties.
+
+I knew sleep was coming for me soon — just had to hold on until I wrapped up this stretch of shifts.
+
+**Learning Points:**
+
+Even under pressure, small wins count. Aesthetic improvements, no matter how minor, help make a product feel intentional.
+
+**Challenges:**
+
+Exhaustion and time pressure — balancing work and code during night shifts is always a juggling act.
+
+**Goals:**
+
+<ul>
+<li>Survive the final shift.</li>
+
+<li>Review homepage changes with fresh eyes after proper rest.</li>
+
+<li>Get back into a healthier rhythm post-duty.</li>
+</ul>
+
+# Day 41 of 100 — May 19, 2025.
+
+I finally came off night shift this morning — felt like I could sleep for a week. After grabbing breakfast, I made a few mental notes on homepage updates and promptly passed out after dinner, sometime around 5 PM.
+
+Before crashing, I squeezed in a bit of light work — refining some image components and layout tweaks that had been bugging me. Nothing major, but it made the homepage feel cleaner. The rest of the day was all about recharging.
+
+**Learning Points:**
+
+Sometimes the best “work” is recovery. Coding when exhausted just leads to messy logic and frustration.
+
+**Challenges:**
+
+Fatigue and mental fog. But getting back on track starts with rest.
+
+**Goals:**
+
+<ul>
+<li>Sleep off the burnout.</li>
+
+<li>Return to feature building once I’ve recharged.</li>
+
+<li>Prep for the next sprint of tasks — both code and non-code.</li>
+</ul>
+
+# Day 42 of 100 — May 20, 2025.
+
+Feeling way more human today. With a clearer head, I returned to my homepage and added a random prompt button to inject a bit of surprise and interactivity. Also integrated a lightweight emoji component into my event logging form — a fun way to make user inputs feel more expressive.
+
+These small features brought the product closer to how I want people to feel when using it — not just functional, but engaging. It’s all about those small touches that make something feel alive.
+
+**Learning Points:**
+
+Adding interactivity like random prompts or emoji pickers goes a long way in user engagement. Also gave me more practice with state handling in React.
+
+**Challenges:**
+
+Still easing back into a normal sleep pattern after night shift, but today was a definite win.
+
+**Goals:**
+
+<ul>
+<li>Test and polish both new components.</li>
+
+<li>Start drafting blog content ideas for builtbydecency.</li>
+
+<li>Revisit offline sync strategy for PWA — it’s still on my mi.</li>
+</ul>
