@@ -1276,5 +1276,5 @@ Still easing back into a normal sleep pattern after night shift, but today was a
 
 <li>Start drafting blog content ideas for builtbydecency.</li>
 
-<li>Revisit offline sync strategy for PWA — it’s still on my mi.</li>
+<li>Revisit offline sync strategy for PWA — it’s still on my mind.</li>
 </ul>
