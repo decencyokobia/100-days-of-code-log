@@ -1278,3 +1278,26 @@ Still easing back into a normal sleep pattern after night shift, but today was a
 
 <li>Revisit offline sync strategy for PWA — it’s still on my mind.</li>
 </ul>
+
+# Day 43 of 100 — May 21, 2025.
+
+Today was all about refinement and elevating the quality of my personal website. I’m getting close to wrapping up the homepage and slowly transitioning into other sections like the blog and about pages.
+
+**Learning Points:**
+
+<ul>
+<li>Integrated and styled a clean, dark-themed tech stack section with motion effects using Framer Motion for a more dynamic user experience.</li>
+
+<li>Understood how to make typewriter effects loop through multiple lines and blend nicely with hero sections.</li>
+</ul>
+
+**Challenges:**
+
+<ul>
+<li>Got stuck with dropdown menus not collapsing after link clicks on small screens. Took a bit of debugging to fix the UI behavior.</li>
+
+<li>Faced a TypeScript warning when using the deprecated Github icon from lucide-react.</li>
+
+<li>Icons in the tech stack looked repetitive, so I scrapped them in favor of a more subtle, animated approach.</li>
+</ul>
+**Goals:**
