@@ -1300,4 +1300,7 @@ Today was all about refinement and elevating the quality of my personal website.
 
 <li>Icons in the tech stack looked repetitive, so I scrapped them in favor of a more subtle, animated approach.</li>
 </ul>
+
 **Goals:**
+
+My immediate goal is to finish building and polishing the entire website — homepage, about, blog, and contact pages — and launch it. Once live, I’ll begin the journey of blogging regularly, learning in public, and building more projects while documenting every step.
