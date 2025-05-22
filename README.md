@@ -1304,3 +1304,38 @@ Today was all about refinement and elevating the quality of my personal website.
 **Goals:**
 
 My immediate goal is to finish building and polishing the entire website — homepage, about, blog, and contact pages — and launch it. Once live, I’ll begin the journey of blogging regularly, learning in public, and building more projects while documenting every step.
+
+# Day 44 of 100 — May 22, 2025.
+
+Today was all about refinement and elevating the quality of my personal website. With the core built and deployed, I focused on polishing and improving the overall feel. The homepage is looking clean, and I’ve begun transitioning into refining the blog and about pages too.
+
+I officially launched the site: www.builtbydecency.com, and I’ve already published two blog posts documenting my journey — including why I built MemoireeApp. One of the trickiest parts was getting dynamic routing to work for blog posts, but in the end, it was just TypeScript being strict — and honestly, I’m glad. It’s catching bugs early, and that’s a win.
+
+**Learning Points:**
+
+<ul>
+<li>Better understanding of dynamic routes in the Next.js app/ directory.</li>
+
+<li>Improved confidence dealing with strict TypeScript type checks.</li>
+
+</ul>
+
+**Challenges:**
+
+<ul>
+<li>
+TypeScript type issues blocked the dynamic blog routing temporarily.</li>
+
+<li>Some frustration, but the debugging process deepened my learning.</li>
+</ul>
+
+**Goals:**
+
+<ol>
+
+<li>Keep writing and learning in public.</li>
+
+<li>Finish the #100DaysOfCode challenge.</li>
+
+<li>Balance school projects and non-coding tasks.</li>
+</ol>
