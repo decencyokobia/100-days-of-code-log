@@ -1339,3 +1339,36 @@ TypeScript type issues blocked the dynamic blog routing temporarily.</li>
 
 <li>Balance school projects and non-coding tasks.</li>
 </ol>
+
+# Day 45 of 100 — May 23, 2025.
+
+Today I pushed myself with another full-stack challenge: building a billing system for freelancers—generate/send invoices, confirm payments, manage workflows. It was intense. I was splitting hairs trying to get auth, email via Resend, and payment confirmations to sync with the backend and update graphs in real time.
+
+**Learning Points:**
+
+<ul>
+<li>Learned how to generate PDFs.</li>
+
+Started implementing authentication (still buggy).
+
+<li>Feeling more confident creating Supabase schemas.</li>
+</ul>
+
+**Challenges:**
+
+<ul>
+<li>Auth flow still breaking—keeps saying “auth session missing.”</li>
+
+<li>Haven’t added social logins yet.</li>
+
+<li>Time management struggles and signs of burnout (tired, foggy, headaches).</li>
+</ul>
+
+**Goals:**
+
+<ul>
+<li>Time to double down on understanding Next.js routing and Supabase auth.</li>
+
+Haven’t forgotten MemoireeApp — launched my site yesterday! Will start blogging there soon: 👉 <a href="www.builtbydecency" title="decency okobia website - builtbydecency">builtbydecency.com</a>.
+
+</ul>
