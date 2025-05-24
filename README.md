@@ -1372,3 +1372,38 @@ Started implementing authentication (still buggy).
 Haven’t forgotten MemoireeApp — launched my site yesterday! Will start blogging there soon: 👉 <a href="www.builtbydecency" title="decency okobia website - builtbydecency">builtbydecency.com</a>.
 
 </ul>
+
+# Day 46 of 100 — May 24, 2025.
+
+Today, I explored Supabase Auth to understand it more deeply. I even built a small test project to experiment with it — and it worked! Beyond that, I stumbled upon some eye-opening insights about how founders validate their ideas.
+
+I posted one of my own ideas on Reddit, and to my surprise, it blew up — over 15,000 views and 80+ comments so far. People were genuinely interested in the concept and shared how current tools aren’t meeting their needs. Many mentioned they rely on 4+ tools just to get one thing done. That honesty meant a lot. It’s motivated me to consider building a prototype or MVP, even though I still feel like my tech stack is in its infancy.
+
+**Learning Points:**
+
+<ul>
+<li>How Supabase Auth works in practice</li>
+
+<li>Real-world idea validation and community feedback</li>
+</ul>
+
+**Challenges:**
+
+<ul>
+<li>Still struggling with time management, especially thinking ahead to next week’s work schedule</li>
+
+<li>I haven’t started my research proposal — and I only have one week left. I have to begin tomorrow to avoid a last-minute rush</li>
+
+<li>It’s wild how much I’m into coding — sometimes everything else fades into the background.</li>
+
+<li>I pay a lot for my Master’s, and I really don’t want to screw it up. A D grade or a resit makes me sick just thinking about it.</li>
+
+</ul>
+
+**Goals:**
+
+<ul>
+<li>Build a clear plan or timetable to balance everything, actually stick to it</li>
+
+<li>Maybe I should just build a productivity tracker for myself — seems like I need it more than anyone 😅</li>
+</ul>
