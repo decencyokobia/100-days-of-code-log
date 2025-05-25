@@ -1407,3 +1407,39 @@ I posted one of my own ideas on Reddit, and to my surprise, it blew up — over 
 
 <li>Maybe I should just build a productivity tracker for myself — seems like I need it more than anyone 😅</li>
 </ul>
+
+# Day 47 of 100 — May 25, 2025.
+
+Today was mostly dedicated to my research proposal. I’ve got the core done, just need to refine and run it through Turnitin. No coding today — but my mind’s still circling around EaziSearch, the research tool idea I’ve been building.
+
+I made the landing page and shared it, but only got one email on the waitlist. It had felt like a solid idea, but now I’m not sure if it’s still worth pursuing. Maybe it needs a better angle, better audience... or maybe just time.
+
+Right now, I’m preparing for my upcoming shifts — 5 days, 2 nights, including one in the hyperbaric chamber. Exciting and intense.
+
+**Learning Points:**
+
+1. How people actually sell products in the indie tech space
+
+2. Ways to discover and validate real problems worth solving
+
+3. How to tell if an idea deserves to be built
+
+**Goals:**
+
+1. Stay in the game — this is long-term
+
+2. Keep exploring the web for ideas worth solving
+
+3. Validate before building
+
+4. Submit my research by July 4th (I had a D in one of my courses — I want this one to be better)
+
+5. Light coding this week due to shifts and academic pressure
+
+If you're reading this:
+
+🌐 <a href="www.builtbydecency.com" title="decency okobia's website">www.builtbydecency.com</a>
+
+🧠 Try my journaling app → <a href="www.memoireeapp.com" title="memoireeapp website">www.memoireeapp.com</a>
+
+📚 Join the waitlist for my research tool → <a href="www.eazisearch.vercel.app" title="eazisearch research tool for students">www.eazisearch.vercel.app</a>
