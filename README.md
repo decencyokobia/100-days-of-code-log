@@ -1438,8 +1438,6 @@ Right now, I’m preparing for my upcoming shifts — 5 days, 2 nights, includin
 
 If you're reading this:
 
-🌐 <a href="www.builtbydecency.com" title="decency okobia's website">www.builtbydecency.com</a>
-
-🧠 Try my journaling app → <a href="www.memoireeapp.com" title="memoireeapp website">www.memoireeapp.com</a>
-
-📚 Join the waitlist for my research tool → <a href="www.eazisearch.vercel.app" title="eazisearch research tool for students">www.eazisearch.vercel.app</a>
+🌐 [www.builtbydecency.com]('https://www.builtbydecency.com')
+🧠 Try my journaling app → [www.memoireeapp.com]('https://www.memoireeapp.com')
+📚 Join the waitlist for my research tool → [www.eazisearch.vercel.app]('https://www.eazisearch.vercel.app')
