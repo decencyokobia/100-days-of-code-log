@@ -1438,6 +1438,6 @@ Right now, I’m preparing for my upcoming shifts — 5 days, 2 nights, includin
 
 If you're reading this:
 
-🌐 [www.builtbydecency.com]('https://www.builtbydecency.com')
-🧠 Try my journaling app → [www.memoireeapp.com]('https://www.memoireeapp.com')
-📚 Join the waitlist for my research tool → [www.eazisearch.vercel.app]('https://www.eazisearch.vercel.app')
+🌐 [www.builtbydecency.com](https://www.builtbydecency.com)  
+🧠 Try my journaling app → [www.memoireeapp.com](https://www.memoireeapp.com)  
+📚 Join the waitlist for my research tool → [www.eazisearch.vercel.app](https://www.eazisearch.vercel.app)
