@@ -1441,3 +1441,41 @@ If you're reading this:
 🌐 [www.builtbydecency.com](https://www.builtbydecency.com)  
 🧠 Try my journaling app → [www.memoireeapp.com](https://www.memoireeapp.com)  
 📚 Join the waitlist for my research tool → [www.eazisearch.vercel.app](https://www.eazisearch.vercel.app)
+
+# Day 48 of 100 — May 26, 2025.
+
+Today was a good one. On my way to work, I mapped out three new projects I’ll be focusing on for the next six months:
+
+A billing system
+
+A research tool
+
+A PDF converter
+
+Yeah, I know… it sounds like a lot — but I want to explore them while learning Next.js, Supabase, and Stripe.
+I'll also keep pushing MemoireeApp, my first love. I plan to use Twitter, LinkedIn, my blog, and every platform I can to share my progress and learn in public.
+
+**Learning Points:**
+
+1. Improved my understanding of routing and structuring API files in Next.js
+
+2. Opened key accounts for development: Supabase and Stripe
+
+**Challenges:**
+
+Balancing this with work isn’t easy — but even doing the smallest things consistently adds up. I’ve felt that firsthand.
+
+**Goals:**
+
+1. Continue building all three projects (at a steady pace)
+2. Promote MemoireeApp more actively
+3. Keep learning and improving with Next.js
+4. Practice better time management
+
+🔗 Check out what I’ve built so far:
+
+Personal blog: www.builtbydecency.com/blog
+
+Journaling tool: www.memoireeapp.com
+
+Waitlist: www.eazisearch.vercel.app
