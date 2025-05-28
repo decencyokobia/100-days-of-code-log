@@ -1479,3 +1479,40 @@ Personal blog: www.builtbydecency.com/blog
 Journaling tool: www.memoireeapp.com
 
 Waitlist: www.eazisearch.vercel.app
+
+# Day 49 of 100 — May 27, 2025.
+
+Today was a busy day, had a patient with sepsis surfacing after 10days of surgery. On my way to work I built the structure of my pdf project as this is the one i am starting off with because i need it for my school projects afterwards I will go off to build the research tool which will be useful need for my last year of masters program. I also built the layout and landing page. I am excited about the project and how far I can go with it.
+
+**Learning Points:**
+
+1. Making sure to follow the app routing structure
+2. Read about stripe and how to get all the necessary keys
+
+**Challenges:**
+
+1. Time management
+2. Work was tiring so I didn't do much
+
+**Goals:**
+
+1. Continue building the pdf tool
+2. Make time for my research as I have to submit soon before 4th of June.
+
+# Day 50 of 100 — May 28, 2025.
+
+Today I was at the hyperbaric chamber, did usual 4hours with two patients and back home. On my way I built the auth route as well as the dashboard route. It was great all together and productive. I also made up my supabase schema for the whole project.
+
+**Learning Points:**
+
+1. I learnt h ow to integrate gitHub and google to allow signing in or registering through thses platform apart from the regular email authentication.
+2. Animation with motion framer - used it befere but forgot some part but yeah, was able to integrate it in my project.
+
+**Challenges:**
+
+Was trying to get my stripe webhook but was a pain, will try again tomorrow.
+
+**Goals:**
+
+1. Continue building the pdf tool
+2. Do some part of my research later at night.
