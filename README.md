@@ -1438,9 +1438,9 @@ Right now, I’m preparing for my upcoming shifts — 5 days, 2 nights, includin
 
 If you're reading this:
 
-🌐 [www.builtbydecency.com](https://www.builtbydecency.com)  
-🧠 Try my journaling app → [www.memoireeapp.com](https://www.memoireeapp.com)  
-📚 Join the waitlist for my research tool → [www.eazisearch.vercel.app](https://www.eazisearch.vercel.app)
+🌐 [www.builtbydecency.com](https://builtbydecency.com)  
+🧠 Try my journaling app → [https://memoireeapp.com](https://memoireeapp.com)  
+📚 Join the waitlist for my research tool → [https://eazisearch.vercel.app](https://eazisearch.vercel.app)
 
 # Day 48 of 100 — May 26, 2025.
 
@@ -1474,11 +1474,11 @@ Balancing this with work isn’t easy — but even doing the smallest things con
 
 🔗 Check out what I’ve built so far:
 
-Personal blog: www.builtbydecency.com/blog
+Personal blog: https://builtbydecency.com/blog
 
-Journaling tool: www.memoireeapp.com
+Journaling tool: https://memoireeapp.com
 
-Waitlist: www.eazisearch.vercel.app
+Waitlist: https://eazisearch.vercel.app
 
 # Day 49 of 100 — May 27, 2025.
 
@@ -1503,6 +1503,14 @@ I also completed the layout and landing page. It’s exciting to see things taki
 1. Continue building the pdf tool
 2. Start dedicating time to research — submission deadline is before June 4th
 
+🔗 Check out what I’ve built so far:
+
+Personal blog: https://builtbydecency.com/blog
+
+Journaling tool: https://memoireeapp.com
+
+Waitlist: https://eazisearch.vercel.app
+
 # Day 50 of 100 — May 28, 2025.
 
 Spent the day at the hyperbaric chamber — 4 hours in with two patients. Got back home and still managed to push forward.
@@ -1522,3 +1530,11 @@ Stripe webhook integration gave me a tough time — will take another stab at it
 
 1. Continue building the pdf tool
 2. Squeeze in some research work later tonight
+
+🔗 Check out what I’ve built so far:
+
+Personal blog: https://builtbydecency.com/blog
+
+Journaling tool: https://memoireeapp.com
+
+Waitlist: https://eazisearch.vercel.app
