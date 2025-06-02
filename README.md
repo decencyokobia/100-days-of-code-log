@@ -1538,3 +1538,31 @@ Personal blog: https://builtbydecency.com/blog
 Journaling tool: https://memoireeapp.com
 
 Waitlist: https://eazisearch.vercel.app
+
+# Day 51 of 100 — June 2, 2025.
+
+The last few days have been packed — juggling work, a research proposal, and trying to pick the right tool to build next. I finally made a choice and started building something bigger than my previous projects. It's going to take time, but I’ve mapped out the file structure and a high-level plan for how everything will unfold.
+
+I'm still learning Next.js — especially dynamic routing. It’s been frustrating at times, but I'm pushing through it. My research proposal is submitted (big relief!). Through it all, I'm still focused on independence — learning with options open, but always moving toward freedom.
+
+**Learning Points:**
+
+When work slows down, I read. Even if it’s 2 AM and someone’s telling me to put my phone away, I’ll still sneak in a page or two. Unfortunately, the hospital intranet blocks most dev sites, but I find ways around it. Learning like this is tough — but I'm not backing down. I love building. When it gets hard, I’ll keep going, even if I have to hate it for a while.
+
+**Challenges:**
+
+Building solo is lonely. Most people around me are nurses — they’re great, but tech isn’t their thing. Coding can feel isolating when no one around understands what you’re doing or why. If you don’t love coding, you’ll give up when it gets tough. I’ve hit that wall more than once.
+
+But someone once told me: “You can’t give up until you’ve failed seven times.” I told myself: I’ll fail ten times. If that’s what it takes, so be it. I’ll build 10 tools, fail, learn, and grow. Because trying and failing is better than just dreaming and never starting.
+
+**Goals:**
+
+1. Keep going with my current project
+
+2. Break the work down modularly — components first
+
+3. Structure: Head → Body → Footer
+
+4. Test often to avoid rewriting everything
+
+5. Eventually, write SEO-friendly blog posts on what I’ve learned
