@@ -1566,3 +1566,27 @@ But someone once told me: “You can’t give up until you’ve failed seven tim
 4. Test often to avoid rewriting everything
 
 5. Eventually, write SEO-friendly blog posts on what I’ve learned
+
+# Day 52 of 100 — June 3, 2025.
+
+Today was productive. I had a hyperbaric shift, but still managed to make solid progress on my current project. Most of the components for the landing page are now complete, and it's starting to look presentable enough to share soon.
+
+I’ve finalized my Supabase schemas and created a supabase/types.ts file for type checking. This step makes working with data feel a lot safer and smoother in TypeScript. I’m also thinking ahead to authentication. For privacy reasons, I’ve decided users will only need to provide their company name and email — the bare essentials, but enough for password recovery if needed.
+
+I'm already thinking about who the first 5 users might be to test the app. Getting early feedback is key before building further on assumptions.
+
+**Learning Points:**
+
+1. Learned how to sync Supabase schemas for better TypeScript type checking
+2. Dived deeper into RLS (Row-Level Security) to make sure user data stays protected
+
+**Challenges:**
+
+1. Time management and sleep — tough combo. After yesterday’s night shift, I crashed from 4pm to 9pm and haven’t really slept since.
+2. The usual doubt: is this the right tool? But it solves a personal problem, and hopefully one for a few friends running small businesses too. That’s reason enough to keep building.
+
+**Goals:**
+
+1. Finalize authentication logic
+2. Ensure routing works smoothly
+3. Polish the landing page so it looks more mature and ready to share.
