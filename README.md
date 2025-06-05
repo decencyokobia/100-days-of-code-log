@@ -1590,3 +1590,26 @@ I'm already thinking about who the first 5 users might be to test the app. Getti
 1. Finalize authentication logic
 2. Ensure routing works smoothly
 3. Polish the landing page so it looks more mature and ready to share.
+
+# Day 53/54 of 100 — June 4/5, 2025.
+
+I completely forgot to log yesterday — this project has been demanding every drop of energy I’ve got. Building this tool is teaching me a lot, but I’d be lying if I said it’s not frustrating. I enjoy math, but getting that API call to work? A different beast.
+
+TypeScript is a lifesaver for catching bugs early, but it definitely adds pressure too. I had to rework my Supabase schemas just to get the types right — multiple times. Still a long road ahead.
+
+I honestly won’t be surprised if this project takes me over 3 months. Between work and life, there’s only so much time I can give — especially with patients taking up most of my week. But when I’m off, I could code all night if needed. Sleep is optional when you’re debugging 😅
+
+**Learning Points:**
+
+1. Type generation from Supabase
+2. API design and integration
+
+**Challenges:**
+
+1. Balancing life, work, and learning. Coding late into the night is often the only option.
+2. Solo dev life is real — no shortcuts, just grit. But I chose this path, and I’m owning everything that comes with it.
+
+**Goals:**
+
+1. Out of 12 planned phases, I’ve finished 3 (lol). Phase 4 starts soon — but I’m refining Phases 1–3 until every API is rock-solid and type-safe.
+2. Keep building, keep learning — especially Next.js.
